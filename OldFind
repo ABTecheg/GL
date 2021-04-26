@@ -1,0 +1,140 @@
+//if (drBatch.HasRows == true && GeneralFunctions.FindRow("BatchNo=" + Convert.ToUInt32(txtFind.Text) + "", dbAccountingProjectDS.Batch)) {
+                //    DataRow[] rArr = this.dbAccountingProjectDS.Batch.Select("BatchNo =" + Convert.ToUInt32(txtFind.Text) + "");
+                //    DataRow[] rArrTrans = this.dbAccountingProjectDS.GLTransactions.Select("BatchNo =" + Convert.ToUInt32(txtFind.Text) + "");
+                //    txtBatch.Text = txtFind.Text;
+                //    txt_JVNumber.Text = rArr[0]["JVNumber"].ToString();
+                //    txt_JVDescription.Text = rArr[0]["BatchDSC"].ToString();
+                //    cb_JournalCode.Text = rArr[0]["BatchJNL"].ToString();
+                //    DTP_JVDate.Value = (DateTime) rArr[0]["BatchDate"];
+                //    txt_Period.Text = rArr[0]["BatchPRD"].ToString();
+                //    txt_Balance.Text = "0";
+                //    if (rArr[0]["BatchStat"].ToString().Trim() == "U") {
+                //        checkbox_Copy.Enabled = false;
+                //        checkbox_Copy.Checked = false;
+                //        checkbox_Copy.Visible = false;
+                //    }
+                //    else if (rArr[0]["BatchStat"].ToString().Trim() == "P") {
+                //        checkbox_Copy.Enabled = true;
+                //        checkbox_Copy.Checked = false;
+                //        checkbox_Copy.Visible = true;
+                //    }
+                //    if (rArr[0]["REVBatch"].ToString() == "0") {
+                //        checkBox_Reverse.Enabled = true;
+                //        checkBox_Reverse.Checked = false;
+                //    }
+                //    else if (rArr[0]["REVBatch"].ToString() != "0") {
+                //        checkBox_Reverse.Enabled = false;
+                //        checkBox_Reverse.Checked = true;
+                //    }
+                //    if (rArrTrans[0]["CurrencyType"].ToString() != "" && rArrTrans[0]["Rate"].ToString() != "0") {
+                //        //cb_Currency.Visible = true;
+                //        //txt_CurrencyRate.Visible = true;
+                //        //cb_Currency.Text = rArrTrans[0]["CurrencyType"].ToString();
+                //        //txt_CurrencyRate.Text = rArrTrans[0]["Rate"].ToString();
+                //        checkBox_multiCurrency.Checked = true;
+                //        checkBox_multiCurrency.Enabled = false;
+                //    }
+                //    else {
+                //        checkBox_multiCurrency.Checked = false;
+                //        checkBox_multiCurrency.Enabled = true;
+                //    }
+                //    if (rArr[0]["BatchStat"].ToString().Trim() == "P") {
+
+                //        checkBox_multiCurrency.Enabled = false;
+                //        checkBox_Reverse.Enabled = false;
+
+                //    }
+                //    if (rArr[0]["BatchStat"].ToString().Trim() == "U") {
+                //        checkBox_multiCurrency.Enabled = true;
+                //        checkBox_Reverse.Enabled = true;
+                //    }
+                //    DataRow[] rArrResult;
+                //    DataRow r;
+                //    rArrResult = dbAccountingProjectDS.GLTransactions.Select("BatchNo =" + Convert.ToInt32(txtFind.Text) + "");
+                //    if (rArr[0]["BatchStat"].ToString().Trim() == "P") {
+                //        if (rArrResult.Length != 0) {
+                //            dtJVAccounts.Rows.RemoveAt(dtJVAccounts.Rows.Count - 1);
+                //            DataRow[] rArrAccount;
+                //            for (int i = 0; i < rArrResult.Length; i++) {
+                //                r = dtJVAccounts.NewRow();
+                //                rArrAccount = this.dbAccountingProjectDS.GLAccounts.Select("AccountNumber ='" + rArrResult[i]["GLAccount"] + "'");
+                //                r["AccountNumber"] = rArrResult[i]["GLAccount"];
+                //                r["AccountName"] = rArrAccount[0]["AccountName"];
+                //                r["Reference"] = rArrResult[i]["TRANSREF"];
+                //                r["Date"] = rArrResult[i]["TRANSDATE"];
+                //                r["DebitFC"] = rArrResult[i]["TRANSDebit"];
+                //                r["CreditFC"] = rArrResult[i]["TRANSCredit"];
+                //                r["DebitLC"] = rArrResult[i]["TRANSDebitLC"];
+                //                r["CreditLC"] = rArrResult[i]["TRANSCreditLC"];
+                //                r["Units"] = rArrResult[i]["TRANSUnit"];
+
+                //                if (rArrResult[i]["CurrencyType"].ToString() != "") {
+                //                    checkBox_multiCurrency.Checked = true;
+                //                    cb_Currency.Visible = true;
+                //                    cb_Currency.Text = rArrResult[i]["CurrencyType"].ToString();
+                //                    txt_CurrencyRate.Visible = true;
+                //                    cb_Currency.Enabled = false;
+                //                    txt_CurrencyRate.Text = rArrResult[i]["Rate"].ToString();
+                //                    checkBox_multiCurrency.Enabled = false;
+                //                }
+                //                else {
+                //                    checkBox_multiCurrency.Checked = false;
+                //                    cb_Currency.Visible = false;
+                //                    cb_Currency.Text = "";
+                //                    cb_Currency.Enabled = true;
+                //                    txt_CurrencyRate.Visible = false;
+                //                    txt_CurrencyRate.Text = "";
+                //                    checkBox_multiCurrency.Enabled = true;
+                //                }
+                //                dtJVAccounts.Rows.Add(r);
+                //                dgv.Rows[i].Cells["ProjectCode"].Value = rArrResult[i]["PropertyCode"];
+                //                r.AcceptChanges();
+                //            }
+                //        }
+                //        btn_Post.Enabled = false;
+                //        dgv.Enabled = false;
+                //    }
+                //    else if (rArr[0]["BatchStat"].ToString().Trim() == "U") {
+                //        if (rArrResult.Length != 0) {
+                //            dtJVAccounts.Rows.RemoveAt(dtJVAccounts.Rows.Count - 1);
+                //            DataRow[] rArrAccount;
+                //            for (int i = 0; i < rArrResult.Length; i++) {
+                //                r = dtJVAccounts.NewRow();
+                //                rArrAccount = this.dbAccountingProjectDS.GLAccounts.Select("AccountNumber ='" + rArrResult[i]["GLAccount"] + "'");
+                //                r["AccountNumber"] = rArrResult[i]["GLAccount"];
+                //                r["AccountName"] = rArrAccount[0]["AccountName"];
+                //                r["Reference"] = rArrResult[i]["TRANSREF"];
+                //                r["Date"] = rArrResult[i]["TRANSDATE"];
+                //                r["DebitFC"] = rArrResult[i]["TRANSDebit"];
+                //                r["CreditFC"] = rArrResult[i]["TRANSCredit"];
+                //                r["DebitLC"] = rArrResult[i]["TRANSDebitLC"];
+                //                r["CreditLC"] = rArrResult[i]["TRANSCreditLC"];
+                //                r["Units"] = rArrResult[i]["TRANSUnit"];
+                //                if (rArrResult[i]["CurrencyType"].ToString() != "") {
+                //                    checkBox_multiCurrency.Checked = true;
+                //                    cb_Currency.Visible = true;
+                //                    cb_Currency.Text = rArrResult[i]["CurrencyType"].ToString();
+                //                    txt_CurrencyRate.Visible = true;
+                //                    txt_CurrencyRate.Text = rArrResult[i]["Rate"].ToString();
+                //                    checkBox_multiCurrency.Enabled = false;
+                //                }
+                //                else {
+                //                    checkBox_multiCurrency.Checked = false;
+                //                    cb_Currency.Visible = false;
+                //                    cb_Currency.Text = "";
+                //                    txt_CurrencyRate.Visible = false;
+                //                    txt_CurrencyRate.Text = "";
+                //                    checkBox_multiCurrency.Enabled = true;
+                //                }
+                //                dtJVAccounts.Rows.Add(r);
+                //                dgv.Rows[i].Cells["ProjectCode"].Value = rArrResult[i]["PropertyCode"];
+                //                r.AcceptChanges();
+                //            }
+                //            r = dtJVAccounts.NewRow();
+                //            dtJVAccounts.Rows.Add(r);
+                //        }
+                //        btn_Post.Enabled = true;
+                //        dgv.Enabled = true;
+                //    }
+
+                //}

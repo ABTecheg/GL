@@ -1,0 +1,423 @@
+<?xml version="1.0"?>
+<ClassInterfaceLanguage>
+   <language>English</language>
+   <mainpage>Star Financial</mainpage>
+   <file>File</file>
+   <logInUser>Log In User</logInUser>
+   <logOffUser>Log Off User</logOffUser>
+   <exit>Exit</exit>
+   <systemConfiguration>System Settings</systemConfiguration>
+   <generalSetup>General Setup</generalSetup>
+   <companyName>Company Name</companyName>
+   <accountType>Account Type</accountType>
+   <accountDefinition>Account Definition</accountDefinition>
+   <chartOfAccounts>Chart Of Accounts</chartOfAccounts>
+   <currency>Currency</currency>
+   <currencyConversion>Currency Conversion</currencyConversion>
+   <projectCodes>Project Codes</projectCodes>
+   <journalCodes>Journal Codes</journalCodes>
+   <fiscalPeriod>Fiscal Period Setup</fiscalPeriod>
+   <userPriviledge>User Priviledge</userPriviledge>
+   <operations>General Ledger</operations>
+   <jvTransactions>Transaction Maintenance</jvTransactions>
+   <budgetMaintenance>Budget Maintenance</budgetMaintenance>
+   <endPeriod>End Period</endPeriod>
+   <endYear>End Year</endYear>
+   <reports>Reports</reports>
+   <reportGenerator>Report Ganerator</reportGenerator>
+   <help>Help</help>
+   <contactUs>Contact Us</contactUs>
+   <formCompanyName>Company Name</formCompanyName>
+   <labelCompanyName>Company Name</labelCompanyName>
+   <labelAddress>Address</labelAddress>
+   <labelphone>Phone</labelphone>
+   <labelmobile>Mobile</labelmobile>
+   <labelmail>E_mail</labelmail>
+   <labelweb>Web Site</labelweb>	
+   <buttonEdit>Edit</buttonEdit>
+   <buttonCompanyOK>Save</buttonCompanyOK>
+   <buttonCompanyExit>Exit</buttonCompanyExit>
+   <formAccountsDefinition>Accounts Definition</formAccountsDefinition>
+   <dgvAccountDefinitionColumn1>AccountNumber</dgvAccountDefinitionColumn1>
+   <dgvAccountDefinitionColumn2>AccountName</dgvAccountDefinitionColumn2>
+   <labelAccountType>Account Type</labelAccountType>
+   <labelAccountNumber>Account Number</labelAccountNumber>
+   <labelAccountName>Account Name</labelAccountName>
+   <labelOpeningBalance>Opening Balance</labelOpeningBalance>
+   <labelStatus>Status</labelStatus>
+   <checkboxActive>Active</checkboxActive>
+   <buttonbtnNew>New</buttonbtnNew>
+   <buttonbtnEdit>Edit</buttonbtnEdit>
+   <buttonbtnDelete>Delete</buttonbtnDelete>
+   <buttonbtnUndo>Undo</buttonbtnUndo>
+   <buttonbtnExit>Exit</buttonbtnExit>
+   <formAccountsTypes>Account Types</formAccountsTypes>
+   <dgvAccountTypesColumn1>AccountTypeName</dgvAccountTypesColumn1>
+   <dgvAccountTypesColumn2>AccountTypeClass</dgvAccountTypesColumn2>
+   <labelAccountTypeID>Account Type ID</labelAccountTypeID>
+   <labelAccountTypeName>Account Type Name</labelAccountTypeName>
+   <groupboxAccountTypeClassifications>Account Type Classifications</groupboxAccountTypeClassifications>
+   <checkbox_credit>Credit</checkbox_credit>
+   <checkbox_debit>Debit</checkbox_debit>
+   <checkbox_other>Other</checkbox_other>
+   <formGeneralSetup>General Setup</formGeneralSetup>
+   <labelMaxAccountNumber>Max Account Number</labelMaxAccountNumber>
+   <labelDecimalPoint>Decimal Point</labelDecimalPoint>
+   <labelJVNumberFormat>JV Number Format</labelJVNumberFormat>
+   <labelAPNumberFormat>AP Number Format</labelAPNumberFormat>
+   <labelARNumberFormat>AR Number Format</labelARNumberFormat>
+   <lblDefaultLanguage>Default Language</lblDefaultLanguage>
+   <labelMaxNumberSubLevel>Max Number Of SubLevel in Charts of Accounts</labelMaxNumberSubLevel>
+   <buttonbtnOk>Save - Exit</buttonbtnOk>
+   <formChartsOfAccounts>Chart Of Accounts</formChartsOfAccounts>
+   <dgvChartsOfAccountsColumn1>Acc Number</dgvChartsOfAccountsColumn1>
+   <dgvChartsOfAccountsColumn2>Acc Name</dgvChartsOfAccountsColumn2>
+   <dgvChartsOfAccountsColumn3>Acc Type</dgvChartsOfAccountsColumn3>
+   <dgvChartsOfAccountsColumn4>Ative</dgvChartsOfAccountsColumn4>
+   <buttonbtn_AddAccount>Add Account</buttonbtn_AddAccount>
+   <formFiscalPeriodSetup>FiscalPeriodSetup</formFiscalPeriodSetup>
+   <gLFiscalPeriodSetupDataGridViewColumn1>Fiscal Year</gLFiscalPeriodSetupDataGridViewColumn1>
+   <labelFiscalYear>Fiscal Year</labelFiscalYear>
+   <labelStartDate>Start Date</labelStartDate>
+   <labelEndDate>End Date</labelEndDate>
+   <labelPeriodDescription>Period Description</labelPeriodDescription>
+   <btn_AutoSetup>Auto Setup</btn_AutoSetup>
+   <btn_SaveChanges>Save Changes</btn_SaveChanges>
+   <resetAutoSetupToolStripMenuItem>Reset AutoSetup</resetAutoSetupToolStripMenuItem>
+   <insertToolStripMenuItem>New And Save</insertToolStripMenuItem>
+   <editToolStripMenuItem>Edit And Save</editToolStripMenuItem>
+   <deleteToolStripMenuItem>Delete And Save</deleteToolStripMenuItem>
+   <exitToolStripMenuItem>Exit</exitToolStripMenuItem>
+   <btn_new_save>New And Save</btn_new_save>
+   <btn_edit_save>Edit And Save</btn_edit_save>
+   <btn_delete_save>Delete And Save</btn_delete_save>
+   <btn_exit>Exit</btn_exit>
+   <optionsToolStripMenuItem>Options</optionsToolStripMenuItem>
+   <labelPeriod1>Period1</labelPeriod1>
+   <labelPeriod2>Period2</labelPeriod2>
+   <labelPeriod3>Period3</labelPeriod3>
+   <labelPeriod4>Period4</labelPeriod4>
+   <labelPeriod5>Period5</labelPeriod5>
+   <labelPeriod6>Period6</labelPeriod6>
+   <labelPeriod7>Period7</labelPeriod7>
+   <labelPeriod8>Period8</labelPeriod8>
+   <labelPeriod9>Period9</labelPeriod9>
+   <labelPeriod10>Period10</labelPeriod10>
+   <labelPeriod11>Period11</labelPeriod11>
+   <labelPeriod12>Period12</labelPeriod12>
+   <labelPeriod13>Period13</labelPeriod13>
+   <formspc>SearchProjectCode</formspc>
+   <dgvspc_code>ProjectCode</dgvspc_code>
+   <dgvspc_desc>ProjectDescription</dgvspc_desc>
+   <btnpro_code>OK</btnpro_code>
+   <formCurrency>Currency</formCurrency>
+   <dgvCurrencyColumn1>CurrencyNo</dgvCurrencyColumn1>
+   <dgvCurrencyColumn2>CurrencyCode</dgvCurrencyColumn2>
+   <dgvCurrencyColumn3>CurrencySign</dgvCurrencyColumn3>
+   <dgvCurrencyColumn4>GL AccountNo</dgvCurrencyColumn4>
+   <dgvCurrencyColumn5>PL AccountNo</dgvCurrencyColumn5>
+   <dgvCurrencyColumn6>CurrencyDescrip</dgvCurrencyColumn6>
+   <dgvCurrencyColumn7>Active</dgvCurrencyColumn7>
+   <dgvCurrencyColumn8>BaseCurrency</dgvCurrencyColumn8>
+   <labelCurrencyCodeID>Currency Code ID</labelCurrencyCodeID>
+   <labelCurrencyCode>Currency Code</labelCurrencyCode>
+   <labelCurrencyCodeSign>Currency Sign</labelCurrencyCodeSign>
+   <labelGLAccountNumber>Gl Account Number</labelGLAccountNumber>
+   <labelPLAccountNumber>Currecny P/L Account Number</labelPLAccountNumber>
+   <labelCurrencyDescreption>Currency Description</labelCurrencyDescreption>
+   <checkbox_Active>Active</checkbox_Active>
+   <checkbox_baseCurrency>Base Currency</checkbox_baseCurrency>
+   <formCurrencyConversionTable>Currency Converion Table</formCurrencyConversionTable>
+   <dgvCurrencyConvCodeColumn1>CurrencyConvID</dgvCurrencyConvCodeColumn1>
+   <dgvCurrencyConvCodeColumn2>Currency Code</dgvCurrencyConvCodeColumn2>
+   <dgvCurrencyConvCodeColumn3>Exchange Rate</dgvCurrencyConvCodeColumn3>
+   <dgvCurrencyConvCodeColumn4>Effective Date</dgvCurrencyConvCodeColumn4>
+   <labelCurrencyConvCodeID>Currency Code ID</labelCurrencyConvCodeID>	
+   <labelCurrencyConvCode>Currency Code</labelCurrencyConvCode>
+   <labelExchangeRate>Exchange Rate</labelExchangeRate>
+   <labelExchangeDate>Exchange Date</labelExchangeDate>
+   <formProjectCodes>Project Codes</formProjectCodes>
+   <dgvProjectCodesColumn1>ProjectCode</dgvProjectCodesColumn1>
+   <dgvProjectCodesColumn2>ProjectDescription</dgvProjectCodesColumn2>
+   <dgvProjectCodesColumn3>Budget</dgvProjectCodesColumn3>
+   <dgvProjectCodesColumn4>BudgetCurrencyCo</dgvProjectCodesColumn4>
+   <dgvProjectCodesColumn5>StartDate</dgvProjectCodesColumn5>
+   <dgvProjectCodesColumn6>EndDate</dgvProjectCodesColumn6>
+   <dgvProjectCodesColumn7>Active</dgvProjectCodesColumn7>
+   <labelProjectCodeID>Project Code ID</labelProjectCodeID>
+   <labelProjectCode>Project Code</labelProjectCode>
+   <labelProjectDescription>Project Description</labelProjectDescription>
+   <labelBudget>Budget</labelBudget>
+   <labelStartDate>StartDate</labelStartDate>
+   <labelEndDate>EndDate</labelEndDate>
+   <labelProjectCodeStatus>Status</labelProjectCodeStatus>
+   <checkbox_ProjectCodeActive>Active</checkbox_ProjectCodeActive>
+   <formGLJournalCodes>GLJournalCodes</formGLJournalCodes>
+   <dgvGLJournalCodesColumn1>JournalCode</dgvGLJournalCodesColumn1>
+   <dgvGLJournalCodesColumn2>JournalDescription</dgvGLJournalCodesColumn2>
+   <labelJournalCodeID>Journal Code ID</labelJournalCodeID>
+   <labelJournalCode>Journal Code</labelJournalCode>
+   <labelJournalDescription>Journal Description</labelJournalDescription>
+   <formJVTransactions>Transactions Maintenance</formJVTransactions>
+   <formAllocationMaintenance>Allocation Maintenance</formAllocationMaintenance>
+   <labelBatch>Batch</labelBatch>
+   <labelJVNumber>JVNumber</labelJVNumber>
+   <labelJVDescription>JVDescription</labelJVDescription>
+   <labelTemplateName>Template Name</labelTemplateName>
+   <labelJVCode>JV Code</labelJVCode>
+   <labelJVDate>JV Date</labelJVDate>
+   <labelPeriod>Period</labelPeriod>
+   <labelJVTransactionsStatus>Status</labelJVTransactionsStatus>
+   <labelBalance>Balance</labelBalance>
+   <checkbox_multiCurrency>MultiCurrency</checkbox_multiCurrency>
+   <checkbox_Reverse>Reverse?</checkbox_Reverse>
+   <buttonJVTransactionNew>New</buttonJVTransactionNew>
+   <buttonJVTransactionSaveNew>Save</buttonJVTransactionSaveNew>
+   <buttonJVTransactionEdit>Edit</buttonJVTransactionEdit>
+   <buttonJVTransactionSaveEdit>Save</buttonJVTransactionSaveEdit>
+   <buttonJVTransactionDelete>Delete</buttonJVTransactionDelete>
+   <buttonJVTransactionSaveDelete>Save</buttonJVTransactionSaveDelete>
+   <buttonJVTransactionPost>Post</buttonJVTransactionPost>
+   <buttonJVTransactionPrint>Print</buttonJVTransactionPrint>
+   <buttonJVTransactionCopy>Copy</buttonJVTransactionCopy>
+   <buttonJVTransactionExit>Exit</buttonJVTransactionExit>
+   <buttonJVTransactionUndo>Undo</buttonJVTransactionUndo>
+   <dgvJVTransactionsColumn1>Account Number</dgvJVTransactionsColumn1>
+   <dgvJVTransactionsColumn2>Account Name</dgvJVTransactionsColumn2>
+   <dgvJVTransactionsColumn4>Date</dgvJVTransactionsColumn4>
+   <dgvJVTransactionsColumn5>Reference</dgvJVTransactionsColumn5>
+   <dgvJVTransactionsColumn6>Credit</dgvJVTransactionsColumn6>
+   <dgvJVTransactionsColumn7>Credit FC</dgvJVTransactionsColumn7>
+   <dgvJVTransactionsColumn8>Debit</dgvJVTransactionsColumn8>
+   <dgvJVTransactionsColumn9>Debit FC</dgvJVTransactionsColumn9>
+   <dgvJVTransactionsColumn10>Units</dgvJVTransactionsColumn10>
+   <dgvJVTransactionsColumn12>Project Code</dgvJVTransactionsColumn12>
+   <buttonJVTransactionsFind>Find</buttonJVTransactionsFind>
+   <formBudgetMaintenance>Budget Maintenance</formBudgetMaintenance>
+   <labelBudgetMaintenanceFiscalYear>Fiscal Year</labelBudgetMaintenanceFiscalYear>
+   <labelBudgetMaintenanceAccountNumber>Account Number</labelBudgetMaintenanceAccountNumber>
+   <labelBudgetMaintenanceAccountName>Account Name</labelBudgetMaintenanceAccountName>
+   <labelBudgetMaintenanceAccountType>Account Type</labelBudgetMaintenanceAccountType>
+   <checkboxBudgetMaintenanceActive>Include Inactive Accounts</checkboxBudgetMaintenanceActive>
+   <buttonBudgetMaintenanceSave>Save</buttonBudgetMaintenanceSave>
+   <buttonBudgetMaintenanceAdd>Add New Account</buttonBudgetMaintenanceAdd>
+   <buttonBudgetMaintenanceExit>Exit</buttonBudgetMaintenanceExit>
+   <dgvBudgetMaintenanceColumn0>Account Number</dgvBudgetMaintenanceColumn0>
+   <dgvBudgetMaintenanceColumn1>Account Name</dgvBudgetMaintenanceColumn1>
+   <dgvBudgetMaintenanceColumn2>Account Type Name</dgvBudgetMaintenanceColumn2>
+   <dgvBudgetMaintenanceColumn3>Period1</dgvBudgetMaintenanceColumn3>
+   <dgvBudgetMaintenanceColumn4>Period2</dgvBudgetMaintenanceColumn4>
+   <dgvBudgetMaintenanceColumn5>Period3</dgvBudgetMaintenanceColumn5>
+   <dgvBudgetMaintenanceColumn6>Period4</dgvBudgetMaintenanceColumn6>
+   <dgvBudgetMaintenanceColumn7>Period5</dgvBudgetMaintenanceColumn7>
+   <dgvBudgetMaintenanceColumn8>Period6</dgvBudgetMaintenanceColumn8>
+   <dgvBudgetMaintenanceColumn9>Period7</dgvBudgetMaintenanceColumn9>
+   <dgvBudgetMaintenanceColumn10>Period8</dgvBudgetMaintenanceColumn10>
+   <dgvBudgetMaintenanceColumn11>Period9</dgvBudgetMaintenanceColumn11>
+   <dgvBudgetMaintenanceColumn12>Period10</dgvBudgetMaintenanceColumn12>
+   <dgvBudgetMaintenanceColumn13>Period11</dgvBudgetMaintenanceColumn13>
+   <dgvBudgetMaintenanceColumn14>Period12</dgvBudgetMaintenanceColumn14>
+   <dgvBudgetMaintenanceColumn15>Period13</dgvBudgetMaintenanceColumn15>
+   <formEndPeriod>End Period</formEndPeriod>
+   <lblEndPeriodFiscalPeriod>Fiscal Period</lblEndPeriodFiscalPeriod>
+   <btnEndPeriodReport>End Period</btnEndPeriodReport>
+   <btnEndPeriodExit>Exit</btnEndPeriodExit>
+   <formEndYear>End Year</formEndYear>
+   <lblEndYearFiscalYear>Fiscal Year</lblEndYearFiscalYear>
+   <btnEndYearReport>End Year</btnEndYearReport>
+   <btnEndYearExit>Exit</btnEndYearExit>
+   <formReportGenerator>Report Displayer</formReportGenerator>
+   <groupBoxReportType>Report Type</groupBoxReportType>
+   <radioButtonrb1>Batch Report</radioButtonrb1>
+   <radioButtonrb2>Trial Balance Summary</radioButtonrb2>
+   <lblReportGeneratorFiscalYear>Fiscal Year</lblReportGeneratorFiscalYear>
+   <lblReportGeneratorFiscalPeriod>Fiscal Period</lblReportGeneratorFiscalPeriod>
+   <btnReport>Show Report</btnReport>  
+   <General_Settings>General_Settings</General_Settings>
+   <General_Ledger_Setup>General_Ledger_Setup</General_Ledger_Setup>
+   <G_L_General_Setup>G_L_General_Setup</G_L_General_Setup>
+   <Allocation_Maintenance>Allocation_Maintenance</Allocation_Maintenance>
+   <TransactionsTemp_Maintenance>TransactionsTemp_Maintenance</TransactionsTemp_Maintenance>
+   <Account_Payable_Setup>Account_Payable_Setup</Account_Payable_Setup>
+   <Tax_Office>Tax_Office</Tax_Office>
+   <Tax_Reason>Tax_Reason</Tax_Reason>
+   <Delivery_Types>Delivery_Types</Delivery_Types>
+   <Vendors_Categories>Vendors_Categories</Vendors_Categories>
+   <Payment_Terms>Payment_Terms</Payment_Terms>
+   <STVendors>Vendors</STVendors>
+   <Run_Allocation>Run_Allocation</Run_Allocation>
+   <GL_Batch_Report>G/L_Batch_Report</GL_Batch_Report>
+   <Chart_of_Account>Chart_of_Account Report</Chart_of_Account>
+   <GL_Journal>G/L_Journal Report</GL_Journal>
+   <GL_Detail>G/L_Detail Report</GL_Detail>
+   <GL_Trail_Balance>G/L_Trail_Balance Report</GL_Trail_Balance>
+   <Account_Payable>Account_Payable</Account_Payable>
+   <Accounts_Payable_Control>Accounts_Payable_Control</Accounts_Payable_Control>
+   <STAPTransactions>APTransactions</STAPTransactions>
+   <Apply_CreditsScreen>Apply_CreditsScreen</Apply_CreditsScreen>
+   <checkboxtree>Expand Tree</checkboxtree>
+   <AllocationCode>Allocation Code</AllocationCode>
+   <AllocationDescription>Allocation Description</AllocationDescription>
+   <SourceAccount>Source Account</SourceAccount>
+   <RemainingPercentage>Remaining Percentage : 0%</RemainingPercentage>
+   <ChkRepeat>Repeat In Same Period</ChkRepeat>
+   <DestinationAccounts>Destination Accounts</DestinationAccounts>
+   <DGVCode>Code</DGVCode>
+   <DGVJournal>Journal</DGVJournal>
+   <DGVDescription>Description</DGVDescription>
+   <dgvAccountPercentage>Percentage</dgvAccountPercentage>
+   <taxoffId>Tax Office ID</taxoffId>
+   <taxoffName>Tax Office Name</taxoffName>
+   <dgvtaxoffId>TaxOfficeID</dgvtaxoffId>
+   <dgvtaxoffName>TaxOfficeName</dgvtaxoffName>
+   <formtaxoffice>Tax Office</formtaxoffice>
+   <ReasonID>Reason ID</ReasonID>
+   <ReasonCode>Reason Code</ReasonCode>
+   <ReasonDescription>Reason Description</ReasonDescription>
+   <dgvCode>Code</dgvCode>
+   <dgvDesc>Description</dgvDesc>
+   <formtaxReason>Tax Reason</formtaxReason>
+   <formDeliveryTypes>Delivery Types</formDeliveryTypes>
+   <DeliveryTypeID>Delivery Type ID</DeliveryTypeID>
+   <DeliveryTypeName>Delivery Type Name</DeliveryTypeName>
+   <Percentage>Percentage</Percentage>
+   <btnSearch>Search</btnSearch>
+   <dgvID>ID</dgvID>
+   <dgvName>Name</dgvName>
+   <CategoryID>Category ID</CategoryID>
+   <CategoryCode>Category Code</CategoryCode>
+   <CategoryDescription>Category Description</CategoryDescription>
+   <formVendorsCategories>Vendors Categories</formVendorsCategories>
+   <PaymentTermID>Payment Term ID</PaymentTermID>
+   <PaymentTermCode>Payment Term Code</PaymentTermCode>
+   <PaymentTermDescription>Payment Term Description</PaymentTermDescription>
+   <DueDays>Due Days</DueDays>
+   <formPaymentTerms>Payment Terms</formPaymentTerms>
+   <dgvDueDays>DueDays</dgvDueDays>
+   <formVendors>Vendors</formVendors>
+   <TermsInformation>Terms Information</TermsInformation>
+   <VendorInformation>Vendor Information</VendorInformation>
+   <VendorID>Vendor ID</VendorID>
+   <VendorCode>Vendor Code</VendorCode>
+   <VendorName>Vendor Name</VendorName>
+   <ArabicName>Arabic Name</ArabicName>
+   <CheckName>Check Name</CheckName>
+   <Address>Address</Address>
+   <City>City</City>
+   <Country>Country</Country>
+   <Phone>Phone</Phone>
+   <Fax>Fax</Fax>
+   <Contacts>Contacts</Contacts>
+   <TermID>Term ID</TermID>
+   <Status>Status</Status>
+   <TaxIDnumber>Tax ID Number</TaxIDnumber>
+   <TaxOffice>Tax Office</TaxOffice>
+   <TaxFileNumber>Tax File Number</TaxFileNumber>
+   <VendorCategory>Vendor Category</VendorCategory>
+   <CreditLimit>Credit Limit</CreditLimit>
+   <ExpenseAccounts>Expense Accounts</ExpenseAccounts>
+   <PrintSeparateChecks>Print Separate Checks</PrintSeparateChecks>
+   <dgvTitle>Title</dgvTitle>
+   <dgvBusinessPlan>BusinessPlan</dgvBusinessPlan>
+   <dgvMobile>Mobile</dgvMobile>
+   <dgvEmail>Email</dgvEmail>
+   <formRunAllocation>Run Allocation</formRunAllocation>
+   <Posted>Posted</Posted>
+   <btnRunAllocation>Run Allocation</btnRunAllocation>
+   <formAccountsPayableControl>Accounts Payable Control</formAccountsPayableControl>
+   <APTradeGLAccountNumber>APTrade GL Account Number</APTradeGLAccountNumber>
+   <DefaultNewVendorStatus>Default New Vendor Status</DefaultNewVendorStatus>
+   <DefaultNewVendorTerms>Default New Vendor Terms</DefaultNewVendorTerms>
+   <AllowMultiCurrencyInvoicy>Allow MultiCurrency Invoicy</AllowMultiCurrencyInvoicy>
+   <PrintZeroBalanceChecks>Print ZeroBalance Checks</PrintZeroBalanceChecks>
+   <PrintSummarizedChecks>Print Summarized Checks</PrintSummarizedChecks>
+   <AgingPeriods>Aging Periods</AgingPeriods>
+   <Days>Days</Days>
+   <Description>Description</Description>
+   <Startof1stPeriod>Start of 1st Period</Startof1stPeriod>
+   <Startof2ndPeriod>Start of 2nd Period</Startof2ndPeriod>
+   <Startof3rdPeriod>Start of 3rd Period</Startof3rdPeriod>
+   <Startof4thPeriod>Start of 4th Period</Startof4thPeriod>
+   <UseWithHoldTax>Use WithHold Tax</UseWithHoldTax>
+   <DefaultPaymentDateStart>Default Payment Date Start</DefaultPaymentDateStart>
+   <btnDoue>OK</btnDoue>
+   <btnNewBatch>New Batch</btnNewBatch>
+   <btnEditBatch>Edit Batch</btnEditBatch>
+   <btnDeleteBatch>Delete Batch</btnDeleteBatch>
+   <btnUndoBatch>Undo Batch</btnUndoBatch>
+   <formAPTransactions>APTransactions</formAPTransactions>
+   <APNumber>AP Number</APNumber>
+   <lblDate>Date</lblDate>
+   <lblUserID>User ID</lblUserID>
+   <lblPostedIn>Posted In</lblPostedIn>
+   <GroupInvoice>Invoice</GroupInvoice>
+   <GroupInvoiceInformation>Invoice Information</GroupInvoiceInformation>
+   <GroupInvoicePaymentInformation>Invoice Payment Information</GroupInvoicePaymentInformation>
+   <GroupAccessInvoice>Access Invoice</GroupAccessInvoice>
+   <lblBatchDetails>Batch Details</lblBatchDetails>
+   <lblInvoiceDetails>Invoice Details</lblInvoiceDetails>
+   <lblInvoiceNumber>Invoice Number</lblInvoiceNumber>
+   <lblTransactionType>Transaction Type</lblTransactionType>
+   <lblInvoiceStatus>Invoice Status</lblInvoiceStatus>
+   <lblReference>Reference</lblReference>
+   <lblInvoiceDate>Invoice Date</lblInvoiceDate>
+   <lblPONumber>P.O Number</lblPONumber>
+   <lblVendorTerms>Vendor Terms</lblVendorTerms>
+   <lblCurrencyRate>Currency Rate</lblCurrencyRate>
+   <lblNetInvoiceAmount>Net Invoice Amount</lblNetInvoiceAmount>
+   <lblSalesTaxAmount>Sales Tax Amount</lblSalesTaxAmount>
+   <lblDiscountValue>Discount Value</lblDiscountValue>
+   <lblInvoiceAmount>Invoice Amount</lblInvoiceAmount>
+   <lblPayDate>Pay Date</lblPayDate>
+   <lblDeliveryType>Delivery Type</lblDeliveryType>
+   <lblTaxAmount>Tax Amount</lblTaxAmount>
+   <lblNonTaxableReason>NonTaxable Reason</lblNonTaxableReason>
+   <lblMultiCurrency>MultiCurrency</lblMultiCurrency>
+   <lblNonTaxable>Non Taxable</lblNonTaxable>
+   <dgvAmount>Amount</dgvAmount>
+   <dgvAmountCC>AmountCC</dgvAmountCC>
+   <dgvBatchInvoiceID>BatchInvoiceID</dgvBatchInvoiceID>
+   <ReportGLBatch>Report G/L Batch</ReportGLBatch>
+   <lblFrom>From</lblFrom>
+   <lblTo>To</lblTo>
+   <groupBatchStatus>Batch Status</groupBatchStatus>
+   <groupBatchRange>Batch Range</groupBatchRange>
+   <rdbBoth>Both</rdbBoth>
+   <rdbPosted>Posted</rdbPosted>
+   <rdbUnPosted>UnPosted</rdbUnPosted>
+   <chkPrintByBatchRange>Print By Batch Range</chkPrintByBatchRange>
+   <ChartofAccountReport>Chart of Account Report</ChartofAccountReport>
+   <groupReportOptions>Report Options</groupReportOptions>
+   <groupAccountRange>Account Range</groupAccountRange>
+   <rdbAllAccounts>All Accounts</rdbAllAccounts>
+   <rdbActiveAccountsOnly>Active Accounts Only</rdbActiveAccountsOnly>
+   <chkPrintByAccountRange>Print By Account Range</chkPrintByAccountRange>
+   <JournalReport>Journal Report</JournalReport>
+   <lblAvailable>Available</lblAvailable>
+   <lblSelect>Select</lblSelect>
+   <groupG_LJournals>G/L Journals</groupG_LJournals>
+   <PrintWithBatchDetails>Print With Batch Details</PrintWithBatchDetails>
+   <PrintAccountOnly>Print Account Only</PrintAccountOnly>
+   <GLDetailAccount>G/L Detail Account</GLDetailAccount>
+   <groupDateRange>Date Range</groupDateRange>
+   <groupG_LAccountSelection>G/L Account Selection</groupG_LAccountSelection>
+   <GLTrialBalance>G/L Trial Balance</GLTrialBalance>
+   <groupReportDate>Report Date</groupReportDate>
+   <rdbTrialBalanceDetail>Trial Balance (Detail)</rdbTrialBalanceDetail>
+   <rdbTrialBalanceSummary>Trial Balance (Summary)</rdbTrialBalanceSummary>
+   <dgvSelect>Select</dgvSelect>	
+   <lblCountUnits>Count Units</lblCountUnits>	
+   <lblJVTransactionsTemp>JVTransactions Temp</lblJVTransactionsTemp>	
+   <formJVTransactionsTemp>Transactions Maintenance Temp</formJVTransactionsTemp>	
+   
+   <Summary>Summary</Summary>	
+   <Detail>Detail</Detail>	
+   <Report_Display>Report Display</Report_Display>	
+   <Vendor>Vendors</Vendor>	
+   <SortCode>Sorted By Vendor Code</SortCode>	
+   <SortName>Sorted By Vendor Name</SortName>	
+   <SortCategory>Sorted By Vendor Category</SortCategory>	
+   <VendorReport>Vendor List Report</VendorReport>	
+   <groupSelectOptions>Select Options</groupSelectOptions>	
+   <ReportAPBatch>Report AP Batch</ReportAPBatch>	
+</ClassInterfaceLanguage>

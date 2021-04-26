@@ -1,0 +1,1 @@
+Data Source=DESKTOP-M3VI7I8\SQLEXPRESS;Initial Catalog=dbAccountingProject;Integrated Security=True
