@@ -1,0 +1,28 @@
+02/09/2014 07:11:08 PM,Invalid column name 'fff'.,,,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+02/21/2014 05:12:16 PM,Incorrect syntax near '='.,,,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+02/21/2014 07:15:17 PM,Incorrect syntax near the keyword 'AND'.,,,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+2/9/2017 3:14:19 PM,Index and length must refer to a location within the string.
+Parameter name: length, in D:\Pro ABTech\GL\Accounting Project\Classes\GeneralFunctions.cs, 126
+   at Accounting_GeneralLedger.GLInterface.checkLoginStatus() in D:\Pro ABTech\GL\Accounting Project\Forms\GLInterface.cs:line 78,System.String InternalSubStringWithChecks(Int32, Int32, Boolean)
+4/13/2020 4:46:38 PM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/13/2020 4:46:40 PM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 4:47:18 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 4:47:21 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 4:49:45 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 4:49:51 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 4:50:38 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/14/2020 5:02:13 AM,Invalid object name 'Users'., in F:\ABTech\GLPROJECT\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in F:\ABTech\GLPROJECT\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/16/2021 11:44:40 PM,Could not load file or assembly 'Interop.MSDASC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. This assembly is built by a runtime newer than the currently loaded runtime and cannot be loaded., in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Classes\Conn.cs, 54
+   at Accounting_GeneralLedger.frmStrartUp.frmStrartUp_Load(Object sender, EventArgs e) in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Forms\frmStrartUp.cs:line 42,Boolean CreateCon()
+4/16/2021 11:45:11 PM,A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified), in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)
+4/16/2021 11:45:39 PM,A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified), in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Classes\DataClass.cs, 627
+   at Accounting_GeneralLedger.UserLogIn.LogOnMethod() in E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\Forms\UserLogIn.cs:line 59,Void OnError(System.Data.SqlClient.SqlException, Boolean)

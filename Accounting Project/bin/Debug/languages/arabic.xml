@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<ClassInterfaceLanguage>
+   <mainpage>دفتر الاستاذ العام</mainpage>
+   <file>ملف</file>
+   <logInUser>دخول المستخدم</logInUser>
+   <logOffUser>خروج المستخدم</logOffUser>
+   <exit>خروج</exit>
+   <systemConfiguration>إعدادات النظام</systemConfiguration>
+   <generalSetup>الإعداد العام</generalSetup>
+   <accountType>نوع الحساب</accountType>
+   <accountDefinition>تعريف الحساب</accountDefinition>
+   <chartOfAccounts>مخططات الحسابات</chartOfAccounts>
+   <currency>العملة</currency>
+   <FiscalPeriodSetup>إعداد السنة</FiscalPeriodSetup>
+   <currencyConversion>تحويل العملة</currencyConversion>
+   <projectCodes>كود المشروع</projectCodes>
+   <journalCodes>كود اقسام الحسابات</journalCodes>
+   <fiscalPeriod>إعداد السنة</fiscalPeriod>
+   <operations>العمليات</operations>
+   <jvTransactions>عمليات دفتر الاستاذ</jvTransactions>
+   <budgetMaintenance>ضبط الميزانية</budgetMaintenance>
+   <reports>التقارير</reports>
+   <help>المساعدة</help>
+   <contactUs>اتصل بنا</contactUs>
+   <window>Window</window>
+   <orientation>Orientation</orientation>
+   <length>Length</length>
+   <height>Height</height>
+   <precipitation_height>Precipitation Height</precipitation_height>
+   <language>اللغة</language>
+   <apply>Apply</apply>
+   <cancel>Cancel</cancel>
+   <units>Units</units>
+   <city>City</city>
+   <general>General</general>
+   <connection>Connection</connection>
+   <proxy_ip>Proxy IP</proxy_ip>
+   <proxy_port>Proxy Port</proxy_port>
+   <proxy_type>Proxy Type</proxy_type>
+   <remote_host_directory>Remote Directory</remote_host_directory>
+   <remote_host_ip>Remote Host</remote_host_ip>
+   <remote_host_port>Remote Port</remote_host_port>
+   <use_proxy>Use Proxy</use_proxy>
+   <update_interval>Update Interval (in sec)</update_interval>
+   <retry_interval>Retry Interval (in sec) in case of error</retry_interval>
+</ClassInterfaceLanguage>

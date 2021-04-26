@@ -1,0 +1,428 @@
+﻿<?xml version="1.0"?>
+<ClassInterfaceLanguage>
+   <language>العربية</language>	
+   <mainpage>دفتر الاستاذ العام</mainpage>
+   <file>ملف</file>
+   <logInUser>دخول المستخدم</logInUser>
+   <logOffUser>خروج المستخدم</logOffUser>
+   <exit>خروج</exit>
+   <systemConfiguration>إعدادات النظام</systemConfiguration>
+   <generalSetup>الإعداد العام</generalSetup>
+   <companyName>أسم الشركة</companyName>
+   <accountType>نوع الحساب</accountType>
+   <accountDefinition>تعريف الحساب</accountDefinition>
+   <chartOfAccounts>مخططات الحسابات</chartOfAccounts>
+   <currency>العملة</currency>
+   <currencyConversion>تحويل العملة</currencyConversion>
+   <projectCodes>كود المشروع</projectCodes>
+   <journalCodes>كود اقسام الحسابات</journalCodes>
+   <fiscalPeriod>إعداد السنة</fiscalPeriod>
+   <userPriviledge>صلاحيات المستخدمين</userPriviledge>
+   <operations>العمليات</operations>
+   <jvTransactions>عمليات دفتر الاستاذ</jvTransactions>
+   <budgetMaintenance>ضبط الميزانية</budgetMaintenance>
+   <endPeriod>قفل فترة</endPeriod>
+   <endYear>قفل  السنة</endYear>
+   <reports>التقارير</reports>
+   <reportGenerator>مولد التقارير</reportGenerator>
+   <help>المساعدة</help>
+   <contactUs>اتصل بنا</contactUs>
+   <formCompanyName>اسم الشركة</formCompanyName>
+   <labelCompanyName>اسم الشركة</labelCompanyName>
+   <labelAddress>العنوان</labelAddress>
+   <labelphone>التلفون</labelphone>
+   <labelmobile>التليفون المحمول</labelmobile>
+   <labelmail>البريد الألكترونى</labelmail>
+   <labelweb>الموقع الألكترونى</labelweb>	
+   <buttonEdit>تعديل</buttonEdit>
+   <buttonCompanyOK>حفظ</buttonCompanyOK>
+   <buttonCompanyExit>خروج</buttonCompanyExit>
+   <formAccountsDefinition>تعريف الحساب</formAccountsDefinition>
+   <dgvAccountDefinitionColumn1>رقم الحساب</dgvAccountDefinitionColumn1>
+   <dgvAccountDefinitionColumn2>اسم الحساب</dgvAccountDefinitionColumn2>
+   <labelAccountType>نوع الحساب</labelAccountType>
+   <labelAccountNumber>رقم الحساب</labelAccountNumber>
+   <labelAccountName>اسم الحساب</labelAccountName>
+   <labelOpeningBalance>رصيد افتتاحي</labelOpeningBalance>
+   <labelStatus>الحالة</labelStatus>
+   <checkboxActive>نشط</checkboxActive>
+   <buttonbtnNew>جديد</buttonbtnNew>
+   <buttonbtnEdit>تعديل</buttonbtnEdit>
+   <buttonbtnDelete>حذف</buttonbtnDelete>
+   <buttonbtnUndo>تراجع</buttonbtnUndo>
+   <buttonbtnExit>خروج</buttonbtnExit>
+   <formAccountsTypes>انواع الحسابات</formAccountsTypes>
+   <dgvAccountTypesColumn1>اسم نوع الحساب</dgvAccountTypesColumn1>
+   <dgvAccountTypesColumn2>فئة نوع الحساب</dgvAccountTypesColumn2>
+   <labelAccountTypeID>رقم نوع الحساب</labelAccountTypeID>
+   <labelAccountTypeName>اسم نوع الحساب</labelAccountTypeName>
+   <groupboxAccountTypeClassifications>تصنيف نوع الحساب</groupboxAccountTypeClassifications>
+   <checkbox_credit>مدين</checkbox_credit>
+   <checkbox_debit>دائن</checkbox_debit>
+   <checkbox_other>اخري</checkbox_other>
+   <formGeneralSetup>الاعداد العام</formGeneralSetup>
+   <labelMaxAccountNumber>الحد الاقصي لرقم الحساب</labelMaxAccountNumber>
+   <labelDecimalPoint>الكسر العشري</labelDecimalPoint>
+   <labelJVNumberFormat>صيغة رقم الالقيد اليومي</labelJVNumberFormat>
+   <labelAPNumberFormat>صيغة رقم الحساب المدفوع</labelAPNumberFormat>
+   <labelARNumberFormat>صيغة رقم الحساب المستحق</labelARNumberFormat>
+   <lblDefaultLanguage>اللغة الأساسية</lblDefaultLanguage>
+   <labelMaxNumberSubLevel>اقصي مستوي لرقم الحساب في مخططات الحساب</labelMaxNumberSubLevel>
+   <buttonbtnOk>حفظ و خروج</buttonbtnOk>
+   <formChartsOfAccounts>مخططات الحساب</formChartsOfAccounts>
+   <dgvChartsOfAccountsColumn1>رقم الحساب</dgvChartsOfAccountsColumn1>
+   <dgvChartsOfAccountsColumn2>اسم الحساب</dgvChartsOfAccountsColumn2>
+   <dgvChartsOfAccountsColumn3>نوع الحساب</dgvChartsOfAccountsColumn3>
+   <dgvChartsOfAccountsColumn4>نشط</dgvChartsOfAccountsColumn4>
+   <buttonbtn_AddAccount>اضافة حساب</buttonbtn_AddAccount>
+   <formFiscalPeriodSetup>إعداد السنة</formFiscalPeriodSetup>
+   <gLFiscalPeriodSetupDataGridViewColumn1>السنة المالية</gLFiscalPeriodSetupDataGridViewColumn1>
+   <labelFiscalYear>السنة المالية</labelFiscalYear>
+   <labelStartDate>تاريخ البدء</labelStartDate>
+   <labelEndDate>تاريخ الأنتهاء</labelEndDate>
+   <labelPeriodDescription>توضيح الفترة</labelPeriodDescription>
+   <btn_AutoSetup>إعداد</btn_AutoSetup>
+   <btn_SaveChanges>حفظ التغير</btn_SaveChanges>
+   <resetAutoSetupToolStripMenuItem>إعداد</resetAutoSetupToolStripMenuItem>
+   <insertToolStripMenuItem>انشاء جديد وتخزين</insertToolStripMenuItem>
+   <editToolStripMenuItem>تعديل وتخزين</editToolStripMenuItem>
+   <deleteToolStripMenuItem>حذف وتخزين</deleteToolStripMenuItem>
+   <exitToolStripMenuItem>خروج</exitToolStripMenuItem>
+   <btn_new_save>انشاء جديد وتخزين</btn_new_save>
+   <btn_edit_save>تعديل وتخزين</btn_edit_save>
+   <btn_delete_save>حذف وتخزين</btn_delete_save>
+   <btn_exit>خروج</btn_exit>
+   <optionsToolStripMenuItem>إعدادات</optionsToolStripMenuItem>
+   <labelPeriod1>الفترة الأولى</labelPeriod1>
+   <labelPeriod2>الفترة الثانية</labelPeriod2>
+   <labelPeriod3>الفترة الثالثة</labelPeriod3>
+   <labelPeriod4>الفترة الرابعة</labelPeriod4>
+   <labelPeriod5>الفترة الخامسة</labelPeriod5>
+   <labelPeriod6>الفترة السادسة</labelPeriod6>
+   <labelPeriod7>الفترة السابعة</labelPeriod7>
+   <labelPeriod8>الفترة الثامنة</labelPeriod8>
+   <labelPeriod9>الفترة التاسعة</labelPeriod9>
+   <labelPeriod10>الفترة العاشرة</labelPeriod10>
+   <labelPeriod11>الفترة الحادية عشر</labelPeriod11>
+   <labelPeriod12>الفترة الثانية عشر</labelPeriod12>
+   <labelPeriod13>الفترة الثالثة عشر</labelPeriod13>
+   <formspc>شاشة البحث للمشروعات</formspc>
+   <dgvspc_code>كود المشروع</dgvspc_code>
+   <dgvspc_desc>أسم المشروع</dgvspc_desc>
+   <btnpro_code>موافق</btnpro_code>
+   <formCurrency>العملات</formCurrency>
+   <dgvCurrencyColumn1>رقم كود العملة</dgvCurrencyColumn1>
+   <dgvCurrencyColumn2>كود العملة</dgvCurrencyColumn2>
+   <dgvCurrencyColumn3>اشارة العملة</dgvCurrencyColumn3>
+   <dgvCurrencyColumn4>رقم حساب في الميزانية</dgvCurrencyColumn4>
+   <dgvCurrencyColumn5>رقم حساب ارباح وخسائر</dgvCurrencyColumn5>
+   <dgvCurrencyColumn6>وصف العملة</dgvCurrencyColumn6>
+   <dgvCurrencyColumn7>نشط</dgvCurrencyColumn7>
+   <dgvCurrencyColumn8>عملة رئيسية</dgvCurrencyColumn8>
+   <labelCurrencyCodeID>رقم كودالعملة</labelCurrencyCodeID>
+   <labelCurrencyCode>كود العملة</labelCurrencyCode>
+   <labelCurrencyCodeSign>اشارة العملة</labelCurrencyCodeSign>
+   <labelGLAccountNumber>رقم حساب دفتر الاستاذ العام</labelGLAccountNumber>
+   <labelPLAccountNumber>رقم حساب المكسب والخسارة</labelPLAccountNumber>
+   <labelCurrencyDescreption>وصف العملة</labelCurrencyDescreption>
+   <checkbox_Active>نشط</checkbox_Active>
+   <checkbox_baseCurrency>عملة رئيسية</checkbox_baseCurrency>
+   <formCurrencyConversionTable>جدول تحويل العملة</formCurrencyConversionTable>
+   <dgvCurrencyConvCodeColumn1>رقم تحويل العملة</dgvCurrencyConvCodeColumn1>
+   <dgvCurrencyConvCodeColumn2>كود تحويل العملة</dgvCurrencyConvCodeColumn2>
+   <dgvCurrencyConvCodeColumn3>معدل التغيير</dgvCurrencyConvCodeColumn3>
+   <dgvCurrencyConvCodeColumn4>وقت التغيير</dgvCurrencyConvCodeColumn4>
+   <labelCurrencyConvCodeID>رقم تحويل العملة</labelCurrencyConvCodeID>	
+   <labelCurrencyConvCode>كود تحويل العملة</labelCurrencyConvCode>
+   <labelExchangeRate>معدل التغيير</labelExchangeRate>
+   <labelExchangeDate>يوم التغيير</labelExchangeDate>
+   <formProjectCodes>اكواد المشروعات</formProjectCodes>
+   <dgvProjectCodesColumn1>كود المشروع</dgvProjectCodesColumn1>
+   <dgvProjectCodesColumn2>وصف المشروع</dgvProjectCodesColumn2>
+   <dgvProjectCodesColumn3>الميزانية</dgvProjectCodesColumn3>
+   <dgvProjectCodesColumn4>عملة الميزانية</dgvProjectCodesColumn4>
+   <dgvProjectCodesColumn5>بداية يوم</dgvProjectCodesColumn5>
+   <dgvProjectCodesColumn6>نهاية يوم</dgvProjectCodesColumn6>
+   <dgvProjectCodesColumn7>نشط</dgvProjectCodesColumn7>
+   <labelProjectCodeID>رقم المشروع</labelProjectCodeID>
+   <labelProjectCode>كود المشروع</labelProjectCode>
+   <labelProjectDescription>وصف المشروع</labelProjectDescription>
+   <labelBudget>الميزانية</labelBudget>
+   <labelStartDate>بداية يوم</labelStartDate>
+   <labelEndDate>نهاية يوم</labelEndDate>
+   <labelProjectCodeStatus>حالة</labelProjectCodeStatus>
+   <checkbox_ProjectCodeActive>نشط</checkbox_ProjectCodeActive>
+   <formGLJournalCodes>اكواد اقسام دفتر الاستاذ العام</formGLJournalCodes>
+   <dgvGLJournalCodesColumn1>كود القسم</dgvGLJournalCodesColumn1>
+   <dgvGLJournalCodesColumn2>وصف القسم</dgvGLJournalCodesColumn2>
+   <labelJournalCodeID>رقم القسم</labelJournalCodeID>
+   <labelJournalCode>كود القسم</labelJournalCode>
+   <labelJournalDescription>وصف القسم</labelJournalDescription>
+   <formJVTransactions>عمليات الصيانة</formJVTransactions>
+   <labelBatch>رقم القيد</labelBatch>
+   <labelJVNumber>رقم القيد اليومي</labelJVNumber>
+   <labelJVDescription>وصف القيد اليومي</labelJVDescription>
+   <labelTemplateName>اسم النموذج</labelTemplateName>
+   <labelJVCode>كود القيد اليومي</labelJVCode>
+   <labelJVDate>تاريخ القيد اليومي</labelJVDate>
+   <labelPeriod>المدة</labelPeriod>
+   <labelJVTransactionsStatus>الحالة</labelJVTransactionsStatus>
+   <labelBalance>الميزانية</labelBalance>
+   <checkbox_multiCurrency>تعدد العملات</checkbox_multiCurrency>
+   <checkbox_Reverse>العكس?</checkbox_Reverse>
+   <buttonJVTransactionNew>جديد</buttonJVTransactionNew>
+   <buttonJVTransactionSaveNew>حفظ</buttonJVTransactionSaveNew>
+   <buttonJVTransactionEdit>تعديل</buttonJVTransactionEdit>
+   <buttonJVTransactionSaveEdit>حفظ</buttonJVTransactionSaveEdit>
+   <buttonJVTransactionDelete>مسح</buttonJVTransactionDelete>
+   <buttonJVTransactionSaveDelete>حفظ</buttonJVTransactionSaveDelete>
+   <buttonJVTransactionPost>ترحيل</buttonJVTransactionPost>
+   <buttonJVTransactionPrint>طباعة</buttonJVTransactionPrint>
+   <buttonJVTransactionCopy>نسخ</buttonJVTransactionCopy>
+   <buttonJVTransactionExit>خروج</buttonJVTransactionExit>
+   <buttonJVTransactionUndo>تراجع</buttonJVTransactionUndo>
+   <dgvJVTransactionsColumn1>رقم الحساب</dgvJVTransactionsColumn1>
+   <dgvJVTransactionsColumn2>اسم الحساب</dgvJVTransactionsColumn2>
+   <dgvJVTransactionsColumn4>التاريخ</dgvJVTransactionsColumn4>
+   <dgvJVTransactionsColumn5>المرجع</dgvJVTransactionsColumn5>
+   <dgvJVTransactionsColumn6>مدين</dgvJVTransactionsColumn6>
+   <dgvJVTransactionsColumn7>مدين اجنبي</dgvJVTransactionsColumn7>
+   <dgvJVTransactionsColumn8>دائن</dgvJVTransactionsColumn8>
+   <dgvJVTransactionsColumn9>دائن اجنبي</dgvJVTransactionsColumn9>
+   <dgvJVTransactionsColumn10>الوحدات</dgvJVTransactionsColumn10>
+   <dgvJVTransactionsColumn12>كود المشروع</dgvJVTransactionsColumn12>
+   <buttonJVTransactionsFind>بحث</buttonJVTransactionsFind>
+   <formBudgetMaintenance>صيانة الميزانية</formBudgetMaintenance>
+   <labelBudgetMaintenanceFiscalYear>السنة المالية</labelBudgetMaintenanceFiscalYear>
+   <labelBudgetMaintenanceAccountNumber>رقم الحساب</labelBudgetMaintenanceAccountNumber>
+   <labelBudgetMaintenanceAccountName>اسم الحساب</labelBudgetMaintenanceAccountName>
+   <labelBudgetMaintenanceAccountType>نوع الحساب</labelBudgetMaintenanceAccountType>
+   <checkboxBudgetMaintenanceActive>تضمن الحسابات الغير نشطة</checkboxBudgetMaintenanceActive>
+   <buttonBudgetMaintenanceSave>حفظ</buttonBudgetMaintenanceSave>
+   <buttonBudgetMaintenanceAdd>اضافة حساب جديد</buttonBudgetMaintenanceAdd>
+   <buttonBudgetMaintenanceExit>خروج</buttonBudgetMaintenanceExit>
+   <dgvBudgetMaintenanceColumn0>رقم الحساب</dgvBudgetMaintenanceColumn0>
+   <dgvBudgetMaintenanceColumn1>اسم الحساب</dgvBudgetMaintenanceColumn1>
+   <dgvBudgetMaintenanceColumn2>اسم نوع الحساب</dgvBudgetMaintenanceColumn2>
+   <dgvBudgetMaintenanceColumn3>الفترة 1</dgvBudgetMaintenanceColumn3>
+   <dgvBudgetMaintenanceColumn4>الفتره 2</dgvBudgetMaintenanceColumn4>
+   <dgvBudgetMaintenanceColumn5>الفترة 3</dgvBudgetMaintenanceColumn5>
+   <dgvBudgetMaintenanceColumn6>الفترة 4</dgvBudgetMaintenanceColumn6>
+   <dgvBudgetMaintenanceColumn7>الفترة 5</dgvBudgetMaintenanceColumn7>
+   <dgvBudgetMaintenanceColumn8>الفترة 6</dgvBudgetMaintenanceColumn8>
+   <dgvBudgetMaintenanceColumn9>الفترة 7</dgvBudgetMaintenanceColumn9>
+   <dgvBudgetMaintenanceColumn10>الفترة 8</dgvBudgetMaintenanceColumn10>
+   <dgvBudgetMaintenanceColumn11>الفترة 9</dgvBudgetMaintenanceColumn11>
+   <dgvBudgetMaintenanceColumn12>الفترة 10</dgvBudgetMaintenanceColumn12>
+   <dgvBudgetMaintenanceColumn13>الفترة 11</dgvBudgetMaintenanceColumn13>
+   <dgvBudgetMaintenanceColumn14>الفترة 12</dgvBudgetMaintenanceColumn14>
+   <dgvBudgetMaintenanceColumn15>الفترة 13</dgvBudgetMaintenanceColumn15>
+   <formEndPeriod>قفل فترة</formEndPeriod>
+   <lblEndPeriodFiscalPeriod>فترة عمل</lblEndPeriodFiscalPeriod>
+   <btnEndPeriodReport>نهاية الفترة</btnEndPeriodReport>
+   <btnEndPeriodExit>خروج</btnEndPeriodExit>
+   <formEndYear>قفل سنة</formEndYear>
+   <lblEndYearFiscalYear>سنة عمل</lblEndYearFiscalYear>
+   <btnEndYearReport>قفل السنة</btnEndYearReport>
+   <btnEndYearExit>خروج</btnEndYearExit>
+   <formReportGenerator>عارض التقارير</formReportGenerator>
+   <groupBoxReportType>نوع التقرير</groupBoxReportType>
+   <radioButtonrb1>تقرير القيود اليومية</radioButtonrb1>
+   <radioButtonrb2>ملخص ميزان المراجعة</radioButtonrb2>
+   <lblReportGeneratorFiscalYear>سنة العمل</lblReportGeneratorFiscalYear>
+   <lblReportGeneratorFiscalPeriod>فترة العمل</lblReportGeneratorFiscalPeriod>
+   <btnReport>عرض التقرير</btnReport>
+   <General_Settings>الأعدادات العامة</General_Settings>
+   <General_Ledger_Setup>إعداد دفتر الأستاذ</General_Ledger_Setup>
+   <G_L_General_Setup>G_L_General_Setup</G_L_General_Setup>
+   <Allocation_Maintenance>مخصصات الصيانة</Allocation_Maintenance>
+   <TransactionsTemp_Maintenance>TransactionsTemp_Maintenance</TransactionsTemp_Maintenance>
+   <Account_Payable_Setup>Account_Payable_Setup</Account_Payable_Setup>
+   <Tax_Office>Tax_Office</Tax_Office>
+   <Tax_Reason>Tax_Reason</Tax_Reason>
+   <Delivery_Types>Delivery_Types</Delivery_Types>
+   <Vendors_Categories>Vendors_Categories</Vendors_Categories>
+   <Payment_Terms>Payment_Terms</Payment_Terms>
+   <STVendors>Vendors</STVendors>
+   <Run_Allocation>Run_Allocation</Run_Allocation>
+   <GL_Batch_Report>G/L_Batch_Report</GL_Batch_Report>
+   <Chart_of_Account>Chart_of_Account</Chart_of_Account>
+   <GL_Journal>G/L_Journal</GL_Journal>
+   <GL_Detail>G/L_Detail</GL_Detail>
+   <GL_Trail_Balance>G/L_Trail_Balance</GL_Trail_Balance>
+   <Account_Payable>Account_Payable</Account_Payable>
+   <Accounts_Payable_Control>Accounts_Payable_Control</Accounts_Payable_Control>
+   <STAPTransactions>APTransactions</STAPTransactions>
+   <Apply_CreditsScreen>Apply_CreditsScreen</Apply_CreditsScreen>
+   <checkboxtree>عرض المخطط</checkboxtree>
+   <formAllocationMaintenance>مخصصات الصيانة</formAllocationMaintenance>
+   <AllocationCode>Allocation Code</AllocationCode>
+   <AllocationDescription>Allocation Description</AllocationDescription>
+   <SourceAccount>Source Account</SourceAccount>
+   <RemainingPercentage>% 0 : النسبة المتبقية</RemainingPercentage>
+   <ChkRepeat>تكرار فى نفس الفترة</ChkRepeat>
+   <DestinationAccounts>Destination Accounts</DestinationAccounts>
+   <DGVCode>كود</DGVCode>
+   <DGVJournal>كود القيد اليومى</DGVJournal>
+   <Code>رقم الفئة</Code>
+   <Description>الوصف</Description>
+   <Type_ID>نوع</Type_ID>
+   <DGVDescription>الوصف</DGVDescription>
+   <dgvAccountPercentage>النسبة المئوية</dgvAccountPercentage>
+   <taxoffId>Tax Office ID</taxoffId>
+   <taxoffName>Tax Office Name</taxoffName>
+   <dgvtaxoffId>TaxOfficeID</dgvtaxoffId>
+   <dgvtaxoffName>TaxOfficeName</dgvtaxoffName>
+   <formtaxoffice>Tax Office</formtaxoffice>
+   <ReasonID>Reason ID</ReasonID>
+   <ReasonCode>Reason Code</ReasonCode>
+   <ReasonDescription>Reason Description</ReasonDescription>
+   <dgvCode>الكود</dgvCode>
+   <dgvDesc>الوصف</dgvDesc>
+   <formtaxReason>Tax Reason</formtaxReason>
+   <formDeliveryTypes>Delivery Types</formDeliveryTypes>
+   <DeliveryTypeID>Delivery Type ID</DeliveryTypeID>
+   <DeliveryTypeName>Delivery Type Name</DeliveryTypeName>
+   <Percentage>Percentage</Percentage>
+   <btnSearch>بحث</btnSearch>
+
+   <dgvID>الرقم</dgvID>
+   <dgvName>الأسم</dgvName>
+   <CategoryID>Category ID</CategoryID>
+   <CategoryCode>Category Code</CategoryCode>
+   <CategoryDescription>Category Description</CategoryDescription>
+   <formVendorsCategories>Vendors Categories</formVendorsCategories>
+   <PaymentTermID>Payment Term ID</PaymentTermID>
+   <PaymentTermCode>Payment Term Code</PaymentTermCode>
+   <PaymentTermDescription>Payment Term Description</PaymentTermDescription>
+   <DueDays>Due Days</DueDays>
+   <formPaymentTerms>Payment Terms</formPaymentTerms>
+   <dgvDueDays>DueDays</dgvDueDays>
+   <formVendors>Vendors</formVendors>
+   <TermsInformation>Terms Information</TermsInformation>
+   <VendorInformation>Vendor Information</VendorInformation>
+   <VendorID>Vendor ID</VendorID>
+   <VendorCode>Vendor Code</VendorCode>
+   <VendorName>Vendor Name</VendorName>
+   <ArabicName>Arabic Name</ArabicName>
+   <CheckName>Check Name</CheckName>
+   <Address>Address</Address>
+   <City>City</City>
+   <Country>Country</Country>
+   <Phone>Phone</Phone>
+   <Fax>Fax</Fax>
+   <Contacts>Contacts</Contacts>
+   <TermID>Term ID</TermID>
+   <Status>Status</Status>
+   <TaxIDnumber>Tax ID Number</TaxIDnumber>
+   <TaxOffice>Tax Office</TaxOffice>
+   <TaxFileNumber>Tax File Number</TaxFileNumber>
+   <VendorCategory>Vendor Category</VendorCategory>
+   <CreditLimit>Credit Limit</CreditLimit>
+   <ExpenseAccounts>Expense Accounts</ExpenseAccounts>
+   <PrintSeparateChecks>Print Separate Checks</PrintSeparateChecks>
+   <dgvTitle>Title</dgvTitle>
+   <dgvBusinessPlan>BusinessPlan</dgvBusinessPlan>
+   <dgvMobile>Mobile</dgvMobile>
+   <dgvEmail>Email</dgvEmail>
+   <formRunAllocation>Run Allocation</formRunAllocation>
+   <Posted>Posted</Posted>
+   <btnRunAllocation>Run Allocation</btnRunAllocation>
+   <formAccountsPayableControl>Accounts Payable Control</formAccountsPayableControl>
+   <APTradeGLAccountNumber>APTrade GL Account Number</APTradeGLAccountNumber>
+   <DefaultNewVendorStatus>Default New Vendor Status</DefaultNewVendorStatus>
+   <DefaultNewVendorTerms>Default New Vendor Terms</DefaultNewVendorTerms>
+   <AllowMultiCurrencyInvoicy>Allow MultiCurrency Invoicy</AllowMultiCurrencyInvoicy>
+   <PrintZeroBalanceChecks>Print ZeroBalance Checks</PrintZeroBalanceChecks>
+   <PrintSummarizedChecks>Print Summarized Checks</PrintSummarizedChecks>
+   <AgingPeriods>Aging Periods</AgingPeriods>
+   <Days>Days</Days>
+   <Description>Description</Description>
+   <Startof1stPeriod>Start of 1st Period</Startof1stPeriod>
+   <Startof2ndPeriod>Start of 2nd Period</Startof2ndPeriod>
+   <Startof3rdPeriod>Start of 3rd Period</Startof3rdPeriod>
+   <Startof4thPeriod>Start of 4th Period</Startof4thPeriod>
+   <UseWithHoldTax>Use WithHold Tax</UseWithHoldTax>
+   <DefaultPaymentDateStart>Default Payment Date Start</DefaultPaymentDateStart>
+   <btnDoue>OK</btnDoue>
+   <btnNewBatch>New Batch</btnNewBatch>
+   <btnEditBatch>Edit Batch</btnEditBatch>
+   <btnDeleteBatch>Delete Batch</btnDeleteBatch>
+   <btnUndoBatch>Undo Batch</btnUndoBatch>
+   <formAPTransactions>APTransactions</formAPTransactions>
+   <APNumber>AP Number</APNumber>
+   <lblDate>Date</lblDate>
+   <lblUserID>User ID</lblUserID>
+   <lblPostedIn>Posted In</lblPostedIn>
+   <GroupInvoice>Invoice</GroupInvoice>
+   <GroupInvoiceInformation>Invoice Information</GroupInvoiceInformation>
+   <GroupInvoicePaymentInformation>Invoice Payment Information</GroupInvoicePaymentInformation>
+   <GroupAccessInvoice>Access Invoice</GroupAccessInvoice>
+   <lblBatchDetails>Batch Details</lblBatchDetails>
+   <lblInvoiceDetails>Invoice Details</lblInvoiceDetails>
+   <lblInvoiceNumber>Invoice Number</lblInvoiceNumber>
+   <lblTransactionType>Transaction Type</lblTransactionType>
+   <lblInvoiceStatus>Invoice Status</lblInvoiceStatus>
+   <lblReference>Reference</lblReference>
+   <lblInvoiceDate>Invoice Date</lblInvoiceDate>
+   <lblPONumber>P.O Number</lblPONumber>
+   <lblVendorTerms>Vendor Terms</lblVendorTerms>
+   <lblCurrencyRate>Currency Rate</lblCurrencyRate>
+   <lblNetInvoiceAmount>Net Invoice Amount</lblNetInvoiceAmount>
+   <lblSalesTaxAmount>Sales Tax Amount</lblSalesTaxAmount>
+   <lblDiscountValue>Discount Value</lblDiscountValue>
+   <lblInvoiceAmount>Invoice Amount</lblInvoiceAmount>
+   <lblPayDate>Pay Date</lblPayDate>
+   <lblDeliveryType>Delivery Type</lblDeliveryType>
+   <lblTaxAmount>Tax Amount</lblTaxAmount>
+   <lblNonTaxableReason>NonTaxable Reason</lblNonTaxableReason>
+   <lblMultiCurrency>MultiCurrency</lblMultiCurrency>
+   <lblNonTaxable>Non Taxable</lblNonTaxable>
+   <dgvAmount>Amount</dgvAmount>
+   <dgvAmountCC>AmountCC</dgvAmountCC>
+   <dgvBatchInvoiceID>BatchInvoiceID</dgvBatchInvoiceID>
+   <ReportGLBatch>Report G/L Batch</ReportGLBatch>
+   <lblFrom>From</lblFrom>
+   <lblTo>To</lblTo>
+   <groupBatchStatus>Batch Status</groupBatchStatus>
+   <groupBatchRange>Batch Range</groupBatchRange>
+   <rdbBoth>Both</rdbBoth>
+   <rdbPosted>Posted</rdbPosted>
+   <rdbUnPosted>UnPosted</rdbUnPosted>
+   <chkPrintByBatchRange>Print By Batch Range</chkPrintByBatchRange>
+   <ChartofAccountReport>Chart of Account Report</ChartofAccountReport>
+   <groupReportOptions>Report Options</groupReportOptions>
+   <groupAccountRange>Account Range</groupAccountRange>
+   <rdbAllAccounts>All Accounts</rdbAllAccounts>
+   <rdbActiveAccountsOnly>Active Accounts Only</rdbActiveAccountsOnly>
+   <chkPrintByAccountRange>Print By Account Range</chkPrintByAccountRange>
+   <JournalReport>Journal Report</JournalReport>
+   <lblAvailable>Available</lblAvailable>
+   <lblSelect>Select</lblSelect>
+   <groupG_LJournals>G/L Journals</groupG_LJournals>
+   <PrintWithBatchDetails>Print With Batch Details</PrintWithBatchDetails>
+   <PrintAccountOnly>Print Account Only</PrintAccountOnly>
+   <GLDetailAccount>G/L Detail Account</GLDetailAccount>
+   <groupDateRange>Date Range</groupDateRange>
+   <groupG_LAccountSelection>G/L Account Selection</groupG_LAccountSelection>
+   <GLTrialBalance>G/L Trial Balance</GLTrialBalance>
+   <groupReportDate>Report Date</groupReportDate>
+   <rdbTrialBalanceDetail>Trial Balance (Detail)</rdbTrialBalanceDetail>
+   <rdbTrialBalanceSummary>Trial Balance (Summary)</rdbTrialBalanceSummary>
+   <dgvSelect>Select</dgvSelect>
+   <lblCountUnits>Count Units</lblCountUnits>	
+   <lblJVTransactionsTemp>JVTransactions Temp</lblJVTransactionsTemp>	
+   <formJVTransactionsTemp>Transactions Maintenance Temp</formJVTransactionsTemp>
+
+   <Summary>ملخص</Summary>	
+   <Detail>تفصيلى</Detail>	
+   <Report_Display>طريقة عرض التقرير</Report_Display>	
+   <Vendor>الموردين</Vendor>	
+   <SortCode>ترتيب بكود المورد</SortCode>	
+   <SortName>ترتيب بأسم المورد</SortName>	
+   <SortCategory>Sorted By Vendor Category</SortCategory>	
+   <VendorReport>تقرير الموردين</VendorReport>	
+   <groupSelectOptions>الأعدادات</groupSelectOptions>	
+   <ReportAPBatch>Report AP Batch</ReportAPBatch>	
+
+</ClassInterfaceLanguage>

@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8E5CCD9E-7703-4810-91B0-C4FF298E1CD6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Accounting_GeneralLedger</RootNamespace>
+    <AssemblyName>General Ledger</AssemblyName>
+    <ApplicationIcon>Icon1.ico</ApplicationIcon>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccountSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountSearch.Designer.cs">
+      <DependentUpon>AccountSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountsPayableControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountsPayableControl.Designer.cs">
+      <DependentUpon>AccountsPayableControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountTypes.Designer.cs">
+      <DependentUpon>AccountTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddFolder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddFolder.Designer.cs">
+      <DependentUpon>AddFolder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AllocationMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AllocationMaintenance.Designer.cs">
+      <DependentUpon>AllocationMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APManualCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APManualCheck.Designer.cs">
+      <DependentUpon>APManualCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ApplyCreditsScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplyCreditsScreen.Designer.cs">
+      <DependentUpon>ApplyCreditsScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="APTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="APTransactions.Designer.cs">
+      <DependentUpon>APTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccountsDefinition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AccountsDefinition.Designer.cs">
+      <DependentUpon>AccountsDefinition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankAccountMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankAccountMaintenance.Designer.cs">
+      <DependentUpon>BankAccountMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankDeposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankDeposit.Designer.cs">
+      <DependentUpon>BankDeposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankDepositTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankDepositTypes.Designer.cs">
+      <DependentUpon>BankDepositTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BatchSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BatchSearch.Designer.cs">
+      <DependentUpon>BatchSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BudgetMaintenance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BudgetMaintenance.Designer.cs">
+      <DependentUpon>BudgetMaintenance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CashFlowCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CashFlowCategories.Designer.cs">
+      <DependentUpon>CashFlowCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChartsOfAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChartsOfAccounts.Designer.cs">
+      <DependentUpon>ChartsOfAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckBook.Designer.cs">
+      <DependentUpon>CheckBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClassInterfaceLanguage.cs" />
+    <Compile Include="ClassOptions.cs" />
+    <Compile Include="CompanyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyForm.Designer.cs">
+      <DependentUpon>CompanyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Currency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Currency.Designer.cs">
+      <DependentUpon>Currency.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CurrencyConversionTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CurrencyConversionTable.Designer.cs">
+      <DependentUpon>CurrencyConversionTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dbAccountingProjectDS.cs">
+      <DependentUpon>dbAccountingProjectDS.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dbAccountingProjectDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbAccountingProjectDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DeliveryTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeliveryTypes.Designer.cs">
+      <DependentUpon>DeliveryTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterRangeOfAccounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EnterRangeOfAccounts.Designer.cs">
+      <DependentUpon>EnterRangeOfAccounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FiscalPeriodSetupfrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FiscalPeriodSetupfrm.Designer.cs">
+      <DependentUpon>FiscalPeriodSetupfrm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralFunctions.cs" />
+    <Compile Include="GeneralLedgerTemplate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralLedgerTemplate.Designer.cs">
+      <DependentUpon>GeneralLedgerTemplate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GeneralSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GeneralSetup.Designer.cs">
+      <DependentUpon>GeneralSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GLGeneralSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLGeneralSetup.Designer.cs">
+      <DependentUpon>GLGeneralSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GLInterface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLInterface.Designer.cs">
+      <DependentUpon>GLInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GLJournalCodes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GLJournalCodes.Designer.cs">
+      <DependentUpon>GLJournalCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JVTransactions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JVTransactions.Designer.cs">
+      <DependentUpon>JVTransactions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentTerms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentTerms.Designer.cs">
+      <DependentUpon>PaymentTerms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProjectCodes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProjectCodes.Designer.cs">
+      <DependentUpon>ProjectCodes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AccountSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountsPayableControl.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountsPayableControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountTypes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddFolder.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddFolder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AllocationMaintenance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AllocationMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="APManualCheck.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>APManualCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ApplyCreditsScreen.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ApplyCreditsScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="APTransactions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>APTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AccountsDefinition.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AccountsDefinition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankAccountMaintenance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankAccountMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankDeposit.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankDeposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankDepositTypes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BankDepositTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BatchSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BatchSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BudgetMaintenance.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BudgetMaintenance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CashFlowCategories.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CashFlowCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChartsOfAccounts.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ChartsOfAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckBook.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CheckBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CompanyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Currency.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Currency.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CurrencyConversionTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CurrencyConversionTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeliveryTypes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DeliveryTypes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterRangeOfAccounts.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EnterRangeOfAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FiscalPeriodSetupfrm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FiscalPeriodSetupfrm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralLedgerTemplate.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GeneralLedgerTemplate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GeneralSetup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GeneralSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GLGeneralSetup.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GLGeneralSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GLInterface.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GLInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GLJournalCodes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GLJournalCodes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JVTransactions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>JVTransactions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentTerms.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PaymentTerms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProjectCodes.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ProjectCodes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchJV.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SearchJV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaxOffice.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>TaxOffice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vendors.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorsCategories.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VendorsCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorSearch.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>VendorSearch.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="dbAccountingProjectDS.xsc">
+      <DependentUpon>dbAccountingProjectDS.xsd</DependentUpon>
+    </None>
+    <None Include="dbAccountingProjectDS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dbAccountingProjectDS.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="dbAccountingProjectDS.xss">
+      <DependentUpon>dbAccountingProjectDS.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="SearchJV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchJV.Designer.cs">
+      <DependentUpon>SearchJV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaxOffice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaxOffice.Designer.cs">
+      <DependentUpon>TaxOffice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vendors.Designer.cs">
+      <DependentUpon>Vendors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorsCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorsCategories.Designer.cs">
+      <DependentUpon>VendorsCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorSearch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorSearch.Designer.cs">
+      <DependentUpon>VendorSearch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XML_access.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon1.ico" />
+    <Content Include="Resources\Icon1.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

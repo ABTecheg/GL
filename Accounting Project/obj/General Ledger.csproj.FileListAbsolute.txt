@@ -1,0 +1,1655 @@
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1703\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1903\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project2303\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project3003\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project0104\Accounting Project\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+I:\0604\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+I:\0604\Accounting Project\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+I:\0604\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+I:\0604\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+H:\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+H:\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+H:\0704\Accounting Project\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+H:\0704\Accounting Project\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+I:\Accounting Project 0505\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe.config
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.exe
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\GeneralLedger.pdb
+I:\Accounting Project 0505\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.exe
+I:\Accounting Project 0505\Accounting Project\Accounting Project\bin\Debug\GeneralLedger.pdb
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVsReports.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.IncomeMenu.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MoneyState.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SummarizeReportFinal.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SummaryReportFinal.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+I:\Accounting Project 0505\Accounting Project\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+G:\GL\Accounting Project\bin\Debug\GeneralLedger.exe.config
+G:\GL\Accounting Project\obj\Debug\GeneralLedger.exe
+G:\GL\Accounting Project\obj\Debug\GeneralLedger.pdb
+G:\GL\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+G:\GL\Accounting Project\bin\Debug\GeneralLedger.application
+G:\GL\Accounting Project\bin\Debug\GeneralLedger.exe
+G:\GL\Accounting Project\bin\Debug\GeneralLedger.pdb
+G:\GL\Accounting Project\bin\Debug\ExtendedControls.dll
+G:\GL\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetPlanningReport.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARAge_Det.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARAge_Summ.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARCustDet.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARCustList.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARPaymentHistory.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARTranBatch.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARTranCode.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CR_ARTranCust.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVsReports.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchesReport.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.IncomeMenu.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MoneyState.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Det.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summ.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatchs.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARDistribution.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBSList.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBST.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChartOfAccount.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatches.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLDetail.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTItemOpen.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAccOnly.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDetails.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJournal.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceDetail.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceSummary.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDetails.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptVendorSummary.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SummarizeReportFinal.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SummaryReportFinal.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TrialBalanceSummary.rpt
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+G:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+G:\GL\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+G:\GL\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+G:\GL\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+G:\GL\Accounting Project\obj\Debug\GeneralLedger.application
+D:\GL\Accounting Project\bin\Debug\GeneralLedger.exe.config
+D:\GL\Accounting Project\obj\Debug\GeneralLedger.exe
+D:\GL\Accounting Project\obj\Debug\GeneralLedger.pdb
+D:\GL\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+D:\GL\Accounting Project\bin\Debug\GeneralLedger.application
+D:\GL\Accounting Project\bin\Debug\GeneralLedger.exe
+D:\GL\Accounting Project\bin\Debug\GeneralLedger.pdb
+D:\GL\Accounting Project\bin\Debug\dllCryptoMT.dll
+D:\GL\Accounting Project\bin\Debug\ExtendedControls.dll
+D:\GL\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BudgetPlanningReport.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Det.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Summ.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustDet.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustList.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARPaymentHistory.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranBatch.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCode.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCust.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.JVsReports.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BatchesReport.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.IncomeMenu.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.MoneyState.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Det.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Summ.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAPBatchs.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTARDistribution.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBSList.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBST.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptChartOfAccount.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLBatches.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLDetail.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTItemOpen.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalAccOnly.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalDetails.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTPurJournal.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceDetail.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceSummary.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTVendorDetails.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptVendorSummary.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummarizeReportFinal.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummaryReportFinal.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.TrialBalanceSummary.rpt
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+D:\GL\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+D:\GL\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+D:\GL\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+D:\GL\Accounting Project\obj\Debug\GeneralLedger.application
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+D:\GL\Accounting Project\bin\Debug\Interop.MSDASC.dll
+D:\GL\Accounting Project\obj\Debug\Interop.MSDASC.dll
+D:\GL\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+D:\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\GeneralLedger.exe.config
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\GeneralLedger.exe
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\GeneralLedger.pdb
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\GeneralLedger.application
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\GeneralLedger.exe
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\GeneralLedger.pdb
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\dllCryptoMT.dll
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\ExtendedControls.dll
+D:\For Me\Pro AHS\GL\Accounting Project\bin\Debug\Interop.MSDASC.dll
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Interop.MSDASC.dll
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BudgetPlanningReport.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Det.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Summ.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustDet.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustList.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARPaymentHistory.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranBatch.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCode.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCust.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.JVsReports.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BatchesReport.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.IncomeMenu.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.MoneyState.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Det.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Summ.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAPBatchs.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTARDistribution.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBSList.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBST.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptChartOfAccount.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLBatches.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLDetail.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTItemOpen.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalAccOnly.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalDetails.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTPurJournal.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceDetail.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceSummary.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTVendorDetails.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptVendorSummary.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummarizeReportFinal.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummaryReportFinal.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.TrialBalanceSummary.rpt
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDeposit.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankDepositTypes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CheckBook.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+D:\For Me\Pro AHS\GL\Accounting Project\obj\Debug\GeneralLedger.application
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\GeneralLedger.exe.config
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\GeneralLedger.exe
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\GeneralLedger.pdb
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Interop.MSDASC.dll
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BudgetPlanningReport.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Det.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Summ.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustDet.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustList.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARPaymentHistory.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranBatch.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCode.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCust.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.JVsReports.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BatchesReport.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.IncomeMenu.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.MoneyState.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Det.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Summ.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAPBatchs.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTARDistribution.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBSList.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBST.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptChartOfAccount.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLBatches.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLDetail.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTItemOpen.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalAccOnly.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalDetails.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTPurJournal.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceDetail.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceSummary.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTVendorDetails.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptVendorSummary.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummarizeReportFinal.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummaryReportFinal.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.TrialBalanceSummary.rpt
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\GeneralLedger.application
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\GeneralLedger.exe
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\GeneralLedger.pdb
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\dllCryptoMT.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\ExtendedControls.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\office.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\office.xml
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\Interop.MSDASC.dll
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\GeneralLedger.application
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+D:\Pro ABTech\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\GeneralLedger.application
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\dllCryptoMT.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\ExtendedControls.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\office.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\office.xml
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\BackUp\GL\3\GL\Accounting Project\bin\Debug\Interop.MSDASC.dll
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Interop.MSDASC.dll
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BudgetPlanningReport.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Det.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Summ.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustDet.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustList.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARPaymentHistory.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranBatch.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCode.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCust.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.JVsReports.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BatchesReport.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.IncomeMenu.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.MoneyState.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Det.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Summ.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAPBatchs.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTARDistribution.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBSList.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBST.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptChartOfAccount.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLBatches.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLDetail.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTItemOpen.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalAccOnly.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalDetails.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTPurJournal.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceDetail.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceSummary.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTVendorDetails.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptVendorSummary.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummarizeReportFinal.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummaryReportFinal.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.TrialBalanceSummary.rpt
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+E:\BackUp\GL\3\GL\Accounting Project\obj\Debug\GeneralLedger.application
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\GeneralLedger.exe.config
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\GeneralLedger.exe
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\GeneralLedger.pdb
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\GeneralLedger.application
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\GeneralLedger.exe
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\GeneralLedger.pdb
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\dllCryptoMT.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\ExtendedControls.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\office.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\office.xml
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\bin\Debug\Interop.MSDASC.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Interop.MSDASC.dll
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BudgetPlanningReport.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Det.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARAge_Summ.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustDet.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARCustList.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARPaymentHistory.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranBatch.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCode.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.CR_ARTranCust.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.JVsReports.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.BatchesReport.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.IncomeMenu.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.MoneyState.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Det.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAge_O_I_Summ.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTAPBatchs.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTARDistribution.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBSList.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptBST.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptChartOfAccount.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLBatches.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptGLDetail.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTItemOpen.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalAccOnly.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptJournalDetails.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTPurJournal.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceDetail.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptTrialBalanceSummary.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RPTVendorDetails.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.RptVendorSummary.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummarizeReportFinal.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.SummaryReportFinal.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Report.TrialBalanceSummary.rpt
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+D:\Pro ABTech\GL - Copy\Accounting Project\obj\Debug\GeneralLedger.application

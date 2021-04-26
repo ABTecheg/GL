@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<ClassInterfaceLanguage>
+<mainpage>Main Page</mainpage>
+   <file>File</file>
+   <logInUser>Log In User</logInUser>
+   <logOffUser>Log Off User</logOffUser>
+   <exit>Esci</exit>
+   <systemConfiguration>System Configurations</systemConfiguration>
+   <generalSetup>General Setup</generalSetup>
+   <accountType>Account Type</accountType>
+   <accountDefinition>Account Definition</accountDefinition>
+   <chartOfAccounts>Chart Of Accounts</chartOfAccounts>
+   <currency>Currency</currency>
+   <currencyConversion>Currency Conversion</currencyConversion>
+   <projectCodes>Project Codes</projectCodes>
+   <journalCodes>Journal Codes</journalCodes>
+   <fiscalPeriod>Fiscal Period Setup</fiscalPeriod>
+   <operations>Operations</operations>
+   <jvTransactions>JV Transactions</jvTransactions>
+   <budgetMaintenance>Budget Maintenance</budgetMaintenance>
+   <reports>Reports</reports>
+   <help>Help</help>
+   <contactUs>Contact Us</contactUs>
+   <window>Finestra</window>
+   <orientation>Orientamento</orientation>
+   <length>Lunghezza</length>
+   <height>Altezza</height>
+   <precipitation_height>Precipitazioni</precipitation_height>
+   <language>Lingua</language>
+   <apply>Applica</apply>
+   <cancel>Annulla</cancel>
+   <units>Unità misura</units>
+   <city>Città</city>
+   <general>Generale</general>
+   <connection>Connessione</connection>
+   <proxy_ip>Proxy IP</proxy_ip>
+   <proxy_port>Proxy Port</proxy_port>
+   <proxy_type>Proxy Type</proxy_type>
+   <remote_host_directory>Direttorio Remoto</remote_host_directory>
+   <remote_host_ip>Host</remote_host_ip>
+   <remote_host_port>Porta</remote_host_port>
+   <use_proxy>Uso Proxy?</use_proxy>
+   <update_interval>Intervallo Agg (in sec)</update_interval>
+   <retry_interval>Intervallo Retry (in sec) in caso di errore</retry_interval>
+</ClassInterfaceLanguage>

@@ -1,0 +1,226 @@
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project303\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project403\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project503\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project903\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe.config
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\Accounting Project.exe
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\Accounting Project.pdb
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsPayableControl.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AddFolder.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AllocationMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APManualCheck.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.APTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.AccountsDefinition.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDeposit.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BankDepositTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BatchSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.BudgetMaintenance.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CashFlowCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CheckBook.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CompanyForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Currency.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.DeliveryTypes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLGeneralSetup.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLInterface.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.GLJournalCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.JVTransactions.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MainForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.MenuForm.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.PaymentTerms.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.ProjectCodes.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Properties.Resources.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.SearchJV.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.TaxOffice.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.Vendors.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorsCategories.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting_Project.VendorSearch.resources
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+E:\New Folder (2)\My Documents\Visual Studio 2005\Projects\Accounting Project1203\Accounting Project\Accounting Project\bin\Debug\General Ledger.exe.config

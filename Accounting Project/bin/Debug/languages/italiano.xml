@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<ClassDetailsLanguage>
+   <no_data>Spiacenti...Non ci sonon dati disponibili per {0}.</no_data>
+   <list_sentences_and> e </list_sentences_and>
+   <list_sentences_comma>, </list_sentences_comma>
+   <list_sentences_final_and>, e </list_sentences_final_and>
+   <location>Questo è un report per {0}.</location>
+   <minutes> minuti</minutes>
+   <time_format> Il report è stato fatto {0} fa, alle {1:t} UTC.</time_format>
+   <time_minutes> e {0} minuti</time_minutes>
+   <time_one_hour> un ora {0}</time_one_hour>
+   <time_several_hours> {0} ore {1}</time_several_hours>
+   <time_a_moment> a moment</time_a_moment>
+   <time_one_day> un giorno</time_one_day>
+   <time_several_days>{0} giorno</time_several_days>
+   <meters_per_second> metri al secondo</meters_per_second>
+   <miles_per_hour> miglia all'ora</miles_per_hour>
+   <kilometers_per_hour> kilometri all'ora</kilometers_per_hour>
+   <knots> knots</knots>
+   <beaufort> beaufort</beaufort>
+   <meter> metro</meter>
+   <meters> metri</meters>
+   <feet> piedi</feet>
+   <kilometers> kilometri</kilometers>
+   <miles> miglia</miles>
+   <inches> pollici</inches>
+   <millimeters> millimetri</millimeters>
+   <and> e </and>
+   <plus> più </plus>
+   <with> con </with>
+   <wind_blowing> Il vento sta spirando alla velocità di  </wind_blowing>
+   <wind_with_gusts> con raffiche fino a  </wind_with_gusts>
+   <wind_from> da </wind_from>
+   <wind_variable> da direzioni variabili.</wind_variable>
+   <wind_varying>, che varia tra {0} ({1}°) e {2} ({3}°)</wind_varying>
+   <wind_calm> Assenza di vento</wind_calm>
+   <temperature> La temperatura è </temperature>
+   <temp_min_max_6_hours> La temperatura è variata tra {0} e {1} nelle ultime 6 ore.</temp_min_max_6_hours>
+   <temp_min_6_hours> La temperatura minima nelle ultime 6 ore è stata di {0}.</temp_min_6_hours>
+   <temp_max_6_hours> La temperatura massima nelle ultime 6 ore è stata di {0}.</temp_max_6_hours>
+   <temp_min_max_24_hours> La temperatura è variata tra {0} e {1} nelle ultime 24 ore.</temp_min_max_24_hours>
+   <temp_min_24_hours> La temperatura minima nelle ultime 24 ore è stata di {0}.</temp_min_24_hours>
+   <temp_max_24_hours> La temperatura massima nelle ultime 24 ore è stata di {0}.</temp_max_24_hours>
+   <dew_point>, con un punto di rugiada a  </dew_point>
+   <altimeter> La pressione atmosferica è stata di </altimeter>
+   <hPa> hPa</hPa>
+   <inHg> inHg</inHg>
+   <Atm> Atm</Atm>
+   <mmHg> mmHg</mmHg>
+   <rel_humidity> L'umidità relativa è stata di </rel_humidity>
+   <feelslike> La temperatura percepita è di  </feelslike>
+   <cloud_group_beg> Ci sono </cloud_group_beg>
+   <cloud_group_end>.</cloud_group_end>
+   <cloud_clear> Il cielo è sereno.</cloud_clear>
+   <cloud_height> nuvole all'altezza di  </cloud_height>
+   <cloud_overcast> Ci sono nuvole nel cielo da un altezza di  </cloud_overcast>
+   <cloud_vertical_visibility> una visibilità verticale di  </cloud_vertical_visibility>
+   <cumulonimbus> nuvole cumuliformi</cumulonimbus>
+   <towering_cumulus> nuvole alte</towering_cumulus>
+   <cavok> no nuvole sotto {0} e no nuvole cumuliforni</cavok>
+   <currently> Attualmente </currently>
+   <visibility> La visibilità è di </visibility>
+   <visibility_greater_than>più di </visibility_greater_than>
+   <visibility_less_than>meno che </visibility_less_than>
+   <visibility_to> al </visibility_to>
+   <runway_upward_tendency> con tendenza ad aumentare</runway_upward_tendency>
+   <runway_downward_tendency> con tendenza a diminuire</runway_downward_tendency>
+   <runway_no_tendency> senza tendenza a variare</runway_no_tendency>
+   <runway_between>tra </runway_between>
+   <runway_left> sinistra</runway_left>
+   <runway_central> centrale</runway_central>
+   <runway_right> destra</runway_right>
+   <runway_visibility> La visibilità è </runway_visibility>
+   <runway_for_runway> per runway </runway_for_runway>
+   <precip_a_trace>una traccia</precip_a_trace>
+   <precip_last_hour> nell'ultima ora</precip_last_hour>
+   <precip_last_6_hours> nelle ultime 6 ore</precip_last_6_hours>
+   <precip_last_24_hours> nelle ultime 24 ore</precip_last_24_hours>
+   <precip_snow> di neve</precip_snow>
+   <precip_there_was> Le precipitazioni sono state di </precip_there_was>
+   <wind_dir>
+      <string>nord</string>
+      <string>Nord/Nord-Est</string>
+      <string>nordEst</string>
+      <string>Est/nordEst</string>
+      <string>Est</string>
+      <string>Est/SudEst</string>
+      <string>SudEst</string>
+      <string>Sud/SudEst</string>
+      <string>Sud</string>
+      <string>Sud/Sudovest</string>
+      <string>Sudovest</string>
+      <string>ovest/Sudovest</string>
+      <string>ovest</string>
+      <string>ovest/nordovest</string>
+      <string>nordovest</string>
+      <string>nord/nordovest</string>
+      <string>nord</string>
+   </wind_dir>
+   <wind_dir_short>
+      <string>N</string>
+      <string>NNE</string>
+      <string>NE</string>
+      <string>ENE</string>
+      <string>E</string>
+      <string>ESE</string>
+      <string>SE</string>
+      <string>SSE</string>
+      <string>S</string>
+      <string>SSW</string>
+      <string>SW</string>
+      <string>WSW</string>
+      <string>W</string>
+      <string>WNW</string>
+      <string>NW</string>
+      <string>NNW</string>
+      <string>N</string>
+   </wind_dir_short>
+   <cloud_condition>
+      <string>sereno</string>
+      <string>parzialmente</string>
+      <string>nuvoloso</string>
+      <string>non continue</string>
+      <string>sparse</string>
+      <string>sereno</string>
+   </cloud_condition>
+   <weather>
+      <Class_StrHash>
+         <str_hash>-</str_hash>
+         <str_value> leggera</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash/>
+         <str_value> moderato </str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>+</str_hash>
+         <str_value> pesante </str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>VC</str_hash>
+         <str_value> nelle vicinanze</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>PR</str_hash>
+         <str_value> parziale</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>BC</str_hash>
+         <str_value> area di</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>MI</str_hash>
+         <str_value> poco profondo</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>DR</str_hash>
+         <str_value> si sposta lentamente</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>BL</str_hash>
+         <str_value> si sta spostando</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SH</str_hash>
+         <str_value> scrosci di </str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>TS</str_hash>
+         <str_value> temporali</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>FZ</str_hash>
+         <str_value> molto freddo</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>DZ</str_hash>
+         <str_value> pioggia fine</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>RA</str_hash>
+         <str_value> pioggia</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SN</str_hash>
+         <str_value> neve</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SG</str_hash>
+         <str_value> fiocchi di neve</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>IC</str_hash>
+         <str_value> ghiaccio</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>PL</str_hash>
+         <str_value> chicchi di grandine</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>GR</str_hash>
+         <str_value> grandine</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>GS</str_hash>
+         <str_value> piccola grandine</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>UP</str_hash>
+         <str_value> sconosciuto</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>BR</str_hash>
+         <str_value> foschia</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>FG</str_hash>
+         <str_value> nebbia</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>FU</str_hash>
+         <str_value> fumo</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>VA</str_hash>
+         <str_value> cenere vulcanica</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>DU</str_hash>
+         <str_value> polvere diffusa</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SA</str_hash>
+         <str_value> sabbia</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>HZ</str_hash>
+         <str_value> afa..aria che contiene particelle che impediscono di vedere oltre</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>PY</str_hash>
+         <str_value> spruzzi</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>PO</str_hash>
+         <str_value> turbini ben sviluppato di polvere e sabbia</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SQ</str_hash>
+         <str_value> vento forte</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>FC</str_hash>
+         <str_value> tornado e onda d'acqua</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SS</str_hash>
+         <str_value> tempeste di sabbia / tempreste di polvere</str_value>
+      </Class_StrHash>
+   </weather>
+   <wind_dir_short_long>
+      <Class_StrHash>
+         <str_hash>N</str_hash>
+         <str_value>nord</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>NE</str_hash>
+         <str_value>nordest</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>E</str_hash>
+         <str_value>est</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SE</str_hash>
+         <str_value>sudest</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>S</str_hash>
+         <str_value>sud</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>SW</str_hash>
+         <str_value>sudovest</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>W</str_hash>
+         <str_value>ovest</str_value>
+      </Class_StrHash>
+      <Class_StrHash>
+         <str_hash>NW</str_hash>
+         <str_value>nordovest</str_value>
+      </Class_StrHash>
+   </wind_dir_short_long>
+</ClassDetailsLanguage>

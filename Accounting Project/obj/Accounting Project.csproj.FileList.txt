@@ -1,0 +1,43 @@
+bin\Debug\Accounting Project.exe.config
+bin\Debug\Accounting Project.exe
+bin\Debug\Accounting Project.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Accounting_Project.AccountTypes.resources
+obj\Debug\Accounting_Project.Currency.resources
+obj\Debug\Accounting_Project.GeneralSetup.resources
+obj\Debug\Accounting_Project.GLJournalCodes.resources
+obj\Debug\Accounting_Project.Properties.Resources.resources
+obj\Debug\Accounting Project.csproj.GenerateResource.Cache
+obj\Debug\Accounting Project.exe
+obj\Debug\Accounting Project.pdb
+obj\Debug\Accounting_Project.CurrencyConversionTable.resources
+obj\Debug\Accounting_Project.AccountSearch.resources
+obj\Debug\Accounting_Project.ProjectCodes.resources
+obj\Debug\Accounting_Project.FiscalPeriodSetupfrm.resources
+obj\Debug\Accounting_Project.AllocationMaintenance.resources
+obj\Debug\Accounting_Project.GeneralLedgerTemplate.resources
+obj\Debug\Accounting_Project.EnterRangeOfAccounts.resources
+obj\Debug\Accounting_Project.JVTransactions.resources
+obj\Debug\Accounting_Project.VendorsCategories.resources
+obj\Debug\Accounting_Project.PaymentTerms.resources
+obj\Debug\Accounting_Project.AccountsPayableControl.resources
+obj\Debug\Accounting_Project.Vendors.resources
+obj\Debug\Accounting_Project.TaxOffice.resources
+obj\Debug\Accounting_Project.DeliveryTypes.resources
+obj\Debug\Accounting_Project.APTransactions.resources
+obj\Debug\Accounting_Project.AccountsDefinition.resources
+obj\Debug\Accounting_Project.ChartsOfAccounts.resources
+obj\Debug\Accounting_Project.AddFolder.resources
+obj\Debug\Accounting_Project.MenuForm.resources
+obj\Debug\Accounting_Project.VendorSearch.resources
+obj\Debug\Accounting_Project.GLGeneralSetup.resources
+obj\Debug\Accounting_Project.CashFlowCategories.resources
+obj\Debug\Accounting_Project.BankAccountMaintenance.resources
+obj\Debug\Accounting_Project.BankDeposit.resources
+obj\Debug\Accounting_Project.BankDepositTypes.resources
+obj\Debug\Accounting_Project.CheckBook.resources
+obj\Debug\Accounting_Project.APManualCheck.resources
+obj\Debug\Accounting_Project.ApplyCreditsScreen.resources
+obj\Debug\Accounting_Project.BatchSearch.resources
+obj\Debug\Accounting_Project.MainForm.resources
+obj\Debug\Accounting_Project.BudgetMaintenance.resources

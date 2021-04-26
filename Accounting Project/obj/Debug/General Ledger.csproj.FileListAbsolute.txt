@@ -1,0 +1,1051 @@
+E:\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\GLPROJECT original\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+E:\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+E:\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb
+E:\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+E:\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+E:\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Shared.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\FlashControlV71.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\ShockwaveFlashObjects.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+E:\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojResolveAssemblyReference.cache
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+E:\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.Cache
+E:\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+E:\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+E:\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\adodb.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojAssemblyReference.cache
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.cache
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CoreCompileInputs.cache
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CopyComplete
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\GL By Bassem\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\FlashControlV71.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.cache
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CoreCompileInputs.cache
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CopyComplete
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojAssemblyReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.ChooseName.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\FlashControlV71.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojAssemblyReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.ChooseName.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CoreCompileInputs.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CopyComplete
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original123\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\FlashControlV71.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.ChooseName.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CoreCompileInputs.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CopyComplete
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojAssemblyReference.cache
+C:\Users\ABTech\Desktop\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentsLoad.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.config
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe.manifest
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.application
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.exe
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\GeneralLedger.pdb
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\dllCryptoMT.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\ExtendedControls.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\System.Web.Services.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\FlashControlV71.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\stdole.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\ShockwaveFlashObjects.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\bin\Debug\Interop.MSDASC.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csprojAssemblyReference.cache
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Interop.MSDASC.dll
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.ResolveComReference.cache
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountSearch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsPayableControl.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountTypes.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AddFolder.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Allocation_Run.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AllocationMaintenance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APManualCheck.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ApplyCreditsScreen.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.APTransactions.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AccountsDefinition.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AP_Manual_Check.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategories2.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARAccountCategory.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARApplyCreditsScreen.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARCustomerMaintainance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARDiscountCategories.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARGenerateInvoice.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARPaymentsTransactions.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARSystemControl.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionCodes.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactions.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ARTransactionsTemp.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.AvailableTables.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BankAccountMaintenance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Account_Setup.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Bank_Deposit_Type.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BatchSearch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.BudgetMaintenance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ChartsOfAccounts.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CheckBudget.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Check_Book.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.CreatBudget.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentAccounts.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.ChooseName.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Forms.DepartmentsLoad.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingLine.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShippingAgent.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ClearanceCompanies.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FormLoading.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Frmabout.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmDgv.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmGLAccount_Select.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FrmInsertText.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Columns.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Rows.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTran_Cashier.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.PaymentTerms.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchARTemp.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CashFlowCategories.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CompanyForm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Contacts.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DepartmentCode.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmStrartUp.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLadger_GeneralSetup.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVEndYearAdjustments.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactionsTemp.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Generate_Report_Setup.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHistory.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rpt_Generate_Report.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ReportARCustList.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAgeOpenItem.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Details.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAge_O_I_Summary.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatches.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributionFrm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPDestributions.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAgeDetails.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARAgeSummary.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARAging.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARByBatch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByCust.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARByTranCode.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARCustList.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARPaymentHis.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptARTranBatch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCode.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTARTranCust.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheet.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBalanceSheetList.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTAPBatch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptBatches.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBS_T.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptChart.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Rptchartofacc.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLAccountDetail.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLBatch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLdet.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptGLTrialBalance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournal.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalAcc.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptJournalDet.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItem.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTOpenItems.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurchseJournal.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTPurJor.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptsTrailBalance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RptTrialBalanceS.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorDet.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorList.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.RPTVendorSumm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAR.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJVTemp.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Currency.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.CurrencyConversionTable.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.DeliveryTypes.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EndMonth.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ENDYear.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.EnterRangeOfAccounts.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.FiscalPeriodSetupfrm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.frmPrint.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralLedgerTemplate.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GeneralSetup.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLGeneralSetup.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLInterface.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.GLJournalCodes.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.JVTransactions.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MainForm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.MenuForm.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ProjectCodes.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Properties.Resources.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.reportGenerator.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptBudgetPlanning.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.rptSummaryTrailBalance.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchHeader.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ShowUnpostedJV.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxReason.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserLogIn.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.Vendors.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorSearch.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchAP.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchCustomer.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchJV.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.SearchProjectCode.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TaxOffice.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.TypeCategories.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.UserPrivilrdge.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.VendorsCategories.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\Accounting_GeneralLedger.ViewGLAcc.resources
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.GenerateResource.cache
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CoreCompileInputs.cache
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.TrustInfo.xml
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe.manifest
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.application
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\General Ledger.csproj.CopyComplete
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.exe
+E:\GLF\GLPROJECT original123 - Copy\GLPROJECT original\Accounting Project\obj\Debug\GeneralLedger.pdb

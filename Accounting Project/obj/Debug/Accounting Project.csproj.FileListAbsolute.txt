@@ -1,0 +1,2 @@
+D:\Pro ABTech\GL\Accounting Project\bin\Debug\General Ledger.exe.config
+C:\Users\Eslam Hamada\Desktop\pr\GLPROJECT original\Accounting Project\bin\Debug\General Ledger.exe.config
